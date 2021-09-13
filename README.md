@@ -1,5 +1,5 @@
 # LRVault
-This Repo is an Obsidian Vault for ITIM tools and resources. This is my personal repository of information for anything ITIM based. This is also used for NCL challenge resources.
+This Repo is an Obsidian Vault for ITIM tools and resources. This is my personal repository of information for anything ITIM based. This is also used for NCL challenge resources. Images do not work from GitHub page, you need to import into Obsidian.
 
 ## Description
 
