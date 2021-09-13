@@ -1,1 +1,11 @@
-{}
+{
+  "obsidian-git:push": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "Numpad5"
+    }
+  ]
+}

@@ -4,10 +4,10 @@
     "type": "split",
     "children": [
       {
-        "id": "bea6f05d0f72a55b",
+        "id": "cc501b96b53e93d3",
         "type": "leaf",
         "state": {
-          "type": "graph",
+          "type": "empty",
           "state": {}
         }
       }
@@ -81,8 +81,10 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "bea6f05d0f72a55b",
+  "active": "cc501b96b53e93d3",
   "lastOpenFiles": [
+    "ITIM/Web Application Exploitation SQL.md",
+    "ITIM/Forensics.md",
     "NCL 2021/Log Analysis.md",
     "NCL 2021/Wireless Access Exploitation.md",
     "NCL 2021/Web Application Exploitation SQL.md",
@@ -90,8 +92,6 @@
     "NCL 2021/Steganography.md",
     "NCL 2021/Scanning.md",
     "NCL 2021/Password Cracking.md",
-    "NCL 2021/OSINT.md",
-    "NCL 2021/Network Traffic Analysis.md",
-    "NCL 2021/Forensics.md"
+    "NCL 2021/OSINT.md"
   ]
 }
