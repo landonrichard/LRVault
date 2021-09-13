@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "cc501b96b53e93d3",
+        "id": "0f274f8900b954d0",
         "type": "leaf",
         "state": {
           "type": "empty",
@@ -81,7 +81,7 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "cc501b96b53e93d3",
+  "active": "0f274f8900b954d0",
   "lastOpenFiles": [
     "ITIM/Untitled.md",
     "ITIM/Cryptography.md",
