@@ -1,0 +1,12 @@
+{
+  "spellcheck": true,
+  "showFrontmatter": true,
+  "spellcheckDictionary": [
+    "Barcodes",
+    "Barcode",
+    "barcodes",
+    "Decrypting"
+  ],
+  "attachmentFolderPath": "NCL 2021/Images",
+  "alwaysUpdateLinks": true
+}

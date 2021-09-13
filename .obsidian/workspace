@@ -1,0 +1,97 @@
+{
+  "main": {
+    "id": "9935f888ab37d238",
+    "type": "split",
+    "children": [
+      {
+        "id": "bea6f05d0f72a55b",
+        "type": "leaf",
+        "state": {
+          "type": "graph",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "399f196211960b8d",
+    "type": "split",
+    "children": [
+      {
+        "id": "830bcd8511106b82",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dd0eabff5d359eb8",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "aecb75eb6268c4c2",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "8f794b44bced7139",
+    "type": "split",
+    "children": [
+      {
+        "id": "09d6ce0e5b72b21e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4130df48464d25a6",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "active": "bea6f05d0f72a55b",
+  "lastOpenFiles": [
+    "NCL 2021/Log Analysis.md",
+    "NCL 2021/Wireless Access Exploitation.md",
+    "NCL 2021/Web Application Exploitation SQL.md",
+    "NCL 2021/Web Application Exploitation.md",
+    "NCL 2021/Steganography.md",
+    "NCL 2021/Scanning.md",
+    "NCL 2021/Password Cracking.md",
+    "NCL 2021/OSINT.md",
+    "NCL 2021/Network Traffic Analysis.md",
+    "NCL 2021/Forensics.md"
+  ]
+}
