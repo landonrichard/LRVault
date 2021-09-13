@@ -3,8 +3,6 @@
 ---
 To break these ciphers you need to figure out what kinda cipher they text is question is and then use one of the tools listed below to crack it.
 
-Test Test Test
-
 #OSINT
 #WebTools
 
