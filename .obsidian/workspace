@@ -7,11 +7,8 @@
         "id": "0f274f8900b954d0",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "ITIM/Untitled.md",
-            "mode": "source"
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -68,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ITIM/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
