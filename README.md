@@ -9,8 +9,11 @@ In my opinion the best way to view this information is using Obsidian and clonin
 ### How to Use with Obsidian
 
 >First Download and Install [Obsidian](https://obsidian.md)
+
 >Download the LRVault Repository
+
 >Open Obsidian and Choose Import Current Vault
+
 >Choose Directory of the Downloaded Repository
 
 #### Downloads and Resources
