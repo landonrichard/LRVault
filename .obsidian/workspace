@@ -7,11 +7,8 @@
         "id": "cc501b96b53e93d3",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "ITIM/Cryptography.md",
-            "mode": "source"
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -68,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ITIM/Cryptography.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,6 +83,7 @@
   },
   "active": "cc501b96b53e93d3",
   "lastOpenFiles": [
+    "ITIM/Untitled.md",
     "ITIM/Cryptography.md",
     "ITIM/Web Application Exploitation SQL.md",
     "ITIM/Forensics.md",
@@ -95,7 +92,6 @@
     "NCL 2021/Web Application Exploitation SQL.md",
     "NCL 2021/Web Application Exploitation.md",
     "NCL 2021/Steganography.md",
-    "NCL 2021/Scanning.md",
-    "NCL 2021/Password Cracking.md"
+    "NCL 2021/Scanning.md"
   ]
 }
