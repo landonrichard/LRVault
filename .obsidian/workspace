@@ -7,8 +7,11 @@
         "id": "0f274f8900b954d0",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "README.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -65,6 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -83,15 +87,15 @@
   },
   "active": "0f274f8900b954d0",
   "lastOpenFiles": [
-    "ITIM/Untitled.md",
+    "README.md",
+    "ITIM/Enumeration & Exploitation in Binary.md",
     "ITIM/Cryptography.md",
     "ITIM/Web Application Exploitation SQL.md",
+    "ITIM/Untitled.md",
     "ITIM/Forensics.md",
     "NCL 2021/Log Analysis.md",
     "NCL 2021/Wireless Access Exploitation.md",
     "NCL 2021/Web Application Exploitation SQL.md",
-    "NCL 2021/Web Application Exploitation.md",
-    "NCL 2021/Steganography.md",
-    "NCL 2021/Scanning.md"
+    "NCL 2021/Web Application Exploitation.md"
   ]
 }
