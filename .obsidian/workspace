@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "README.md",
-            "mode": "source"
+            "file": "ITIM/Password Cracking.md",
+            "mode": "preview"
           }
         }
       }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "ITIM/Password Cracking.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,6 +87,8 @@
   },
   "active": "0f274f8900b954d0",
   "lastOpenFiles": [
+    "ITIM/Password Cracking.md",
+    "ITIM/Network Traffic Analysis.md",
     "README.md",
     "ITIM/Enumeration & Exploitation in Binary.md",
     "ITIM/Cryptography.md",
@@ -94,8 +96,6 @@
     "ITIM/Untitled.md",
     "ITIM/Forensics.md",
     "NCL 2021/Log Analysis.md",
-    "NCL 2021/Wireless Access Exploitation.md",
-    "NCL 2021/Web Application Exploitation SQL.md",
-    "NCL 2021/Web Application Exploitation.md"
+    "NCL 2021/Wireless Access Exploitation.md"
   ]
 }
