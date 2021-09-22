@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "ITIM/Password Cracking.md",
+            "file": "NCL/Wireless Access Exploitation.md",
             "mode": "preview"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ITIM/Password Cracking.md",
+                "file": "NCL/Wireless Access Exploitation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,6 +87,7 @@
   },
   "active": "0f274f8900b954d0",
   "lastOpenFiles": [
+    "ITIM/Wireless Access Exploitation.md",
     "ITIM/Password Cracking.md",
     "ITIM/Web Application Exploitation SQL.md",
     "ITIM/OSINT.md",
@@ -95,7 +96,6 @@
     "README.md",
     "ITIM/Enumeration & Exploitation in Binary.md",
     "ITIM/Cryptography.md",
-    "ITIM/Untitled.md",
-    "ITIM/Forensics.md"
+    "ITIM/Untitled.md"
   ]
 }
