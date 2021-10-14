@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "NCL/Wireless Access Exploitation.md",
+            "file": "NFT Tutorial.md",
             "mode": "preview"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NCL/Wireless Access Exploitation.md",
+                "file": "NFT Tutorial.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,6 +87,8 @@
   },
   "active": "0f274f8900b954d0",
   "lastOpenFiles": [
+    "NFT Tutorial.md",
+    "Untitled.md",
     "NCL/Wireless Access Exploitation.md",
     "ITIM/Wireless Access Exploitation.md",
     "ITIM/Password Cracking.md",
@@ -94,8 +96,6 @@
     "ITIM/OSINT.md",
     "ITIM/Log Analysis.md",
     "ITIM/Network Traffic Analysis.md",
-    "README.md",
-    "ITIM/Enumeration & Exploitation in Binary.md",
-    "ITIM/Cryptography.md"
+    "README.md"
   ]
 }
