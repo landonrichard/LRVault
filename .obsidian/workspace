@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "NFT Tutorial.md",
+            "file": "NCL/Steganography.md",
             "mode": "preview"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NFT Tutorial.md",
+                "file": "NCL/Steganography.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,6 +87,8 @@
   },
   "active": "0f274f8900b954d0",
   "lastOpenFiles": [
+    "NCL/Steganography.md",
+    "NCL/Cryptography.md",
     "NFT Tutorial.md",
     "Untitled.md",
     "NCL/Wireless Access Exploitation.md",
@@ -94,8 +96,6 @@
     "ITIM/Password Cracking.md",
     "ITIM/Web Application Exploitation SQL.md",
     "ITIM/OSINT.md",
-    "ITIM/Log Analysis.md",
-    "ITIM/Network Traffic Analysis.md",
-    "README.md"
+    "ITIM/Log Analysis.md"
   ]
 }
