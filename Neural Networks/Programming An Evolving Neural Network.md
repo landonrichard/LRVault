@@ -1,4 +1,4 @@
-## **Unsupervised Learning
+## **Unsupervised Learning**
 
 **Input Layer**
 `:def here`
@@ -10,3 +10,4 @@
 `:def here`
 
 >![[Neural Networks/Images/Architecture.jpg]]
+
