@@ -7,7 +7,7 @@
 #WebTools 
 
 **Metadata**
-`: a set of data that describes and gives information about other data.'
+`: a set of data that describes and gives information about other data.`
 
 **Tools**
 - [ExifTool](https://github.com/exiftool/exiftool)
@@ -19,7 +19,7 @@
 #WebTools 
 
 **Barcode**
-`: a method of representing data in a visual, machine-readable form.
+`: a method of representing data in a visual, machine-readable form.`
 
 **Types of barcodes**
 

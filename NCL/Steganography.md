@@ -37,8 +37,8 @@ To try and find these files within the image you can use a tool called DIIT (Dig
 ## Finding MD5 Sum of a File
 #KaliTools 
 
-**MD5 Sum **
-: a commonly used function for validating data integrity.
+**MD5 Sum**
+': a commonly used function for validating data integrity.'
 
 To check the MD5 Sum of a file, you can use the "md5sum" command.
 
