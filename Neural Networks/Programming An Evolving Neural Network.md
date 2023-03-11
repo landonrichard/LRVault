@@ -19,4 +19,6 @@ L1 - `[1,2,3]`
 L2 - `[1,2,3,4,5]`
 L3 - `[1,2]`
 
-The array of layers is then wrapped into a matrix. 
+>The ==array== of layers is then wrapped into a ==two-dimensional matrix== with every single row in the matrix having the ability to have ==variable lengths==.
+This would look something like:
+>![[Matrix Example.png]]
