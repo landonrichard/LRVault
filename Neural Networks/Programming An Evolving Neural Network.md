@@ -15,7 +15,7 @@
 Notice how each layer and subsequent hidden layer can have a different number of ==nodes== (neurons). This is because each Layer is held in an ==array==.
 
 >The array will look something like this
-L1 - `[1,2,3,]`
+L1 - `[1,2,3]`
 L2 - `[1,2,3,4,5]`
 L3 - `[1,2]`
 
