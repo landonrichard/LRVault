@@ -9,4 +9,4 @@
 **Output Layer**
 `:def here`
 
-![[Neural Networks/Images/Architecture.jpg]]
+>![[Neural Networks/Images/Architecture.jpg]]
