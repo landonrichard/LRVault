@@ -14,8 +14,9 @@
 
 Notice how each layer and subsequent hidden layer can have a different number of ==nodes== (neurons). This is because each Layer is held in an ==array==.
 
->The example layers above array would look liu
+>**The example layers above array would look like:**
 L1 - `[1,2,3]`
 L2 - `[1,2,3,4,5]`
 L3 - `[1,2]`
 
+The array of layers is then wrapped into a matr
