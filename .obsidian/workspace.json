@@ -11,8 +11,12 @@
             "id": "297b105d60d98da2",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Neural Networks/Untitled.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Neural Networks/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,9 +142,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "70e544dbbabdac81",
+  "active": "297b105d60d98da2",
   "lastOpenFiles": [
     "Untitled.canvas",
+    "Neural Networks/Untitled.md",
+    "Neural Networks",
     "NCL/Web Application Exploitation SQL.md",
     "Untitled.md",
     "NCL/Enumeration & Exploitation in Python.md",
@@ -175,7 +182,6 @@
     "NCL/Images/Network Traffic Analysis",
     "NCL/Images/Log Analysis",
     "NCL/Images/Enumeration and Exploitation",
-    "NCL/Images/Bardcodes",
-    "NCL/Images"
+    "NCL/Images/Bardcodes"
   ]
 }
