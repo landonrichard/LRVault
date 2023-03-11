@@ -1,4 +1,4 @@
-## Unsupervised Learning
+## **Unsupervised Learning
 
 **Input Layer**
 `:def here`

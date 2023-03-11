@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Neural Networks/The Basics.md",
+                "file": "Neural Networks/Programming An Evolving Neural Network.md",
                 "mode": "source",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Neural Networks/The Basics.md",
+                "file": "Neural Networks/Programming An Evolving Neural Network.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,11 +150,11 @@
     "NCL/Steganography.md",
     "NCL/Password Cracking.md",
     "NCL/OSINT.md",
-    "Neural Networks/The Basics.md",
+    "Neural Networks/Programming An Evolving Neural Network.md",
     "Neural Networks/Images/Architecture.jpg",
     "Neural Networks/Images",
     "Neural Networks/New folder",
-    "Architecture.jpg",
+    "Neural Networks/Images/Architecture 1.jpg",
     "NCL/Network Traffic Analysis.md",
     "NCL/Wireless Access Exploitation.md",
     "NCL/Web Application Exploitation SQL.md",
