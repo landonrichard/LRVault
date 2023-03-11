@@ -9,6 +9,9 @@
 **Output Layer**
 : the final layer in the neural network where desired predictions are obtained. There is one output layer in a neural network that produces the desired final prediction.
 
+**Weights**
+: The parameter within a neural network that transforms input data within the network's hidden layers.
+
 >![[Neural Networks/Images/Architecture.jpg]]
 >Each step in Layers are notated by stepping up L1, L2, L3, etc. There are more than one hidden layer that steps down. This is just an example for comprehension. 
 
@@ -30,16 +33,16 @@ In C#, this idea of having N x M matrix where m is a variable length is called a
 In C# `[][]` means a jagged array. 
 >An example of this is `float[][]neruons = new float [numberOflayers][]`
 
-The ==waitlist==, or all of the connections that are represented by the black lines, are stored in a ==three-dimensional jagged array==. 
+The ==Weightlist==, or all of the connections that are represented by the black lines, are stored in a ==three-dimensional jagged array==. 
 
-Any example of this is 
-`int[][][] jagged3d = new int[][][]
+>Any example of a 3d Jagged Array in C# looks like:
+```
+```int[][][] jagged3d = new int[][][]
 {
     new int[][] { new int[] { 111, 112 }, new int[] { 121, 122, 123 } },
     new int[][] { new int[] { 211 } }
-}`
+}````
 
 This looks like this
 ![[3djagged.png]]
-
-If you n
+The input layer will not be stored here. This is because this is a weightlist and the input layer does not have any incoming weights. 
