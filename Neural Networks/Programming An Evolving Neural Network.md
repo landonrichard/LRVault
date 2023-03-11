@@ -19,4 +19,4 @@ L1 - `[1,2,3]`
 L2 - `[1,2,3,4,5]`
 L3 - `[1,2]`
 
-The array of layers is then wrapped into a matr
+The array of layers is then wrapped into a matrix. 
