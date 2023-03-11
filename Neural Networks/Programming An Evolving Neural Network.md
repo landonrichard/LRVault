@@ -37,12 +37,13 @@ The ==Weightlist==, or all of the connections that are represented by the black 
 
 >Any example of a 3d Jagged Array in C# looks like:
 ```
-```int[][][] jagged3d = new int[][][]
+int[][][] jagged3d = new int[][][]
 {
     new int[][] { new int[] { 111, 112 }, new int[] { 121, 122, 123 } },
     new int[][] { new int[] { 211 } }
-}````
-
-This looks like this
+}
+```
+>A more visual explanation looks like:
 ![[3djagged.png]]
-The input layer will not be stored here. This is because this is a weightlist and the input layer does not have any incoming weights. 
+
+The input layer will not be stored in this 3d Jagged array. This is because this is a weightlist and the input layer does not have any incoming weights. 
