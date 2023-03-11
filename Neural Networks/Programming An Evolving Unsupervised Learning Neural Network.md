@@ -1,4 +1,4 @@
-## **Unsupervised Learning**
+## **The Structure of the Matrix**
 
 **Input Layer**
 : Composed of artificial input neurons, and brings the initial data into the system for further processing by subsequent layers of artificial neurons. The input layer is the very beginning of the workflow for the artificial neural network.
@@ -51,5 +51,6 @@ The input layer will not be stored in this 3d Jagged array. This is because this
 >The 3D Jagged array correlates to the weightlist as shown in the diagram below:
 ![[3djaggedexplained.png]]
 
-Please notice that the last array in the first hidden layer in the 3D Jagged Array is empty. It is shown as a closed matrix. This is because the last node in the hidden layer does not have an input. This is a ==Bias Neuron== that is used as a constant. 
-*The Bias Neuron is not mandatory and may not be added to the network*
+Please notice that the last array in the first hidden layer in the 3D Jagged Array is empty. It is shown as a closed matrix. This is because the last node in the hidden layer does not have an input. This is a ==Bias Neuron== that is used as a constant. The Output Layer does not have a bias neuron.
+*The Bias Neuron is not mandatory and may not be added to the network.*
+

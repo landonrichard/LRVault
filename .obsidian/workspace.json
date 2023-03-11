@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Neural Networks/Programming An Evolving Neural Network.md",
-                "mode": "preview",
+                "file": "Neural Networks/Programming An Evolving Unsupervised Learning Neural Network.md",
+                "mode": "source",
                 "source": true
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Neural Networks/Programming An Evolving Neural Network.md",
+                "file": "Neural Networks/Programming An Evolving Unsupervised Learning Neural Network.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,7 +153,7 @@
     "NCL/Steganography.md",
     "NCL/Password Cracking.md",
     "NCL/OSINT.md",
-    "Neural Networks/Programming An Evolving Neural Network.md",
+    "Neural Networks/Programming An Evolving Unsupervised Learning Neural Network.md",
     "Neural Networks/Images/Architecture.jpg",
     "Neural Networks/Images",
     "Neural Networks/New folder",
