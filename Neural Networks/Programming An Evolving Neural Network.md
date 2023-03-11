@@ -51,4 +51,4 @@ The input layer will not be stored in this 3d Jagged array. This is because this
 >The 3D Jagged array correlates to the weightlist as shown in the diagram below:
 ![[3djaggedexplained.png]]
 
-Please notice that the last array in the first hidden layer in the 3D Jagged Array is empty. This is because the last node in the hidden layer does not have an input. This is a B
+Please notice that the last array in the first hidden layer in the 3D Jagged Array is empty. It is shown as a closed matrix. This is because the last node in the hidden layer does not have an input. This is a ==Bias Neuron== that is used as a constant. 
