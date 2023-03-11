@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NCL/OSINT.md",
-                "mode": "source",
+                "file": "NCL/Password Cracking.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NCL/OSINT.md",
+                "file": "NCL/Password Cracking.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,13 +144,13 @@
   },
   "active": "297b105d60d98da2",
   "lastOpenFiles": [
+    "NCL/OSINT.md",
     "NCL/Network Traffic Analysis.md",
     "NCL/Log Analysis.md",
     "NCL/Forensics.md",
     "NCL/Enumeration & Exploitation in Python.md",
     "NCL/Enumeration & Exploitation in Binary.md",
     "NCL/Cryptography.md",
-    "NCL/OSINT.md",
     "Neural Networks/The Basics.md",
     "Untitled.canvas",
     "Neural Networks",
