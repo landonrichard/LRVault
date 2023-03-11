@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NCL/Enumeration & Exploitation in Python.md",
+                "file": "NCL/OSINT.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NCL/Enumeration & Exploitation in Python.md",
+                "file": "NCL/OSINT.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,25 +144,25 @@
   },
   "active": "297b105d60d98da2",
   "lastOpenFiles": [
+    "NCL/Network Traffic Analysis.md",
+    "NCL/Log Analysis.md",
+    "NCL/Forensics.md",
+    "NCL/Enumeration & Exploitation in Python.md",
     "NCL/Enumeration & Exploitation in Binary.md",
     "NCL/Cryptography.md",
     "NCL/OSINT.md",
-    "NCL/Log Analysis.md",
     "Neural Networks/The Basics.md",
     "Untitled.canvas",
     "Neural Networks",
     "NCL/Web Application Exploitation SQL.md",
     "Untitled.md",
-    "NCL/Enumeration & Exploitation in Python.md",
     "NCL/Web Application Exploitation.md",
-    "NCL/Forensics.md",
     "NFT Tutorial.md",
     "README.md",
     "NCL/Wireless Access Exploitation.md",
     "NCL/Steganography.md",
     "NCL/Scanning.md",
     "NCL/Password Cracking.md",
-    "NCL/Network Traffic Analysis.md",
     "NCL/Images/Enumeration and Exploitation/binary8.png",
     "NCL/Images/Enumeration and Exploitation/binary6.png",
     "NCL/Images/Enumeration and Exploitation/binary4.png",
