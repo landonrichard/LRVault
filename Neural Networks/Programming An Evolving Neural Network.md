@@ -52,3 +52,4 @@ The input layer will not be stored in this 3d Jagged array. This is because this
 ![[3djaggedexplained.png]]
 
 Please notice that the last array in the first hidden layer in the 3D Jagged Array is empty. It is shown as a closed matrix. This is because the last node in the hidden layer does not have an input. This is a ==Bias Neuron== that is used as a constant. 
+*The Bias Neuron is not mandatory and may not be added to the network*
