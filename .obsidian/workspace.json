@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Neural Networks/Untitled.md",
+                "file": "Neural Networks/The Basics.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Neural Networks/Untitled.md",
+                "file": "Neural Networks/The Basics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +145,7 @@
   "active": "297b105d60d98da2",
   "lastOpenFiles": [
     "Untitled.canvas",
-    "Neural Networks/Untitled.md",
+    "Neural Networks/The Basics.md",
     "Neural Networks",
     "NCL/Web Application Exploitation SQL.md",
     "Untitled.md",
