@@ -6,8 +6,8 @@
 #KaliTools 
 #WebTools 
 
-**Metadata **
-: a set of data that describes and gives information about other data.
+**Metadata**
+`:`a set of data that describes and gives information about other data.
 
 **Tools**
 - [ExifTool](https://github.com/exiftool/exiftool)
