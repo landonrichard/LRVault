@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Test.md",
+                "file": "NCL/Enumeration & Exploitation in Python.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Test.md",
+                "file": "NCL/Enumeration & Exploitation in Python.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,19 +144,21 @@
   },
   "active": "d457d876fa4dc369",
   "lastOpenFiles": [
-    "README.md",
+    "NCL/Enumeration & Exploitation in Binary.md",
+    "NCL/Cryptography.md",
+    "NCL/Images/Enumeration and Exploitation/binary8.png",
+    "NCL/Images/Enumeration and Exploitation/binary6.png",
+    "NCL/Images/Enumeration and Exploitation/binary4.png",
+    "NCL/Images/Enumeration and Exploitation/binary1.png",
+    "NCL/Images/Bardcodes/code128.jpg",
+    "NCL/Images/Bardcodes/code39.jpg",
     "Test.md",
+    "README.md",
     "NFT Tutorial.md",
     "NCL/Images/Wireless Access Exploitation/wiresharkprefs.png",
     "NCL/Images/Wireless Access Exploitation/wiresharkkeys.png",
     "NCL/Images/Wireless Access Exploitation/aircrack.jpg",
     "NCL/Images/Web Application Exploitation/storagepanel.png",
-    "NCL/Images/Web Application Exploitation/requestpayload.png",
-    "NCL/Images/Web Application Exploitation/purchase.png",
-    "NCL/Images/Web Application Exploitation/networkpanel.png",
-    "NCL/Images/Web Application Exploitation/inspectelement2.png",
-    "NCL/Images/Web Application Exploitation/inspectelement.png",
-    "NCL/Images/Web Application Exploitation/incorrectlogin.png",
     "NCL/Images/Wireless Access Exploitation",
     "NCL/Images/Web Application Exploitation",
     "NCL/Images/Steganography",
@@ -177,8 +179,6 @@
     "NCL/Network Traffic Analysis.md",
     "NCL/Log Analysis.md",
     "NCL/Forensics.md",
-    "NCL/Enumeration & Exploitation in Python.md",
-    "NCL/Enumeration & Exploitation in Binary.md",
-    "NCL/Cryptography.md"
+    "NCL/Enumeration & Exploitation in Python.md"
   ]
 }
