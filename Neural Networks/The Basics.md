@@ -1,3 +1,9 @@
 ## Unsupervised Learning
 
+Input Layer
+`:def here`
 
+Hidden Layers
+`:def here`
+
+Output Layer
