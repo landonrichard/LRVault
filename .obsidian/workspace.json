@@ -1,0 +1,178 @@
+{
+  "main": {
+    "id": "f4dea11809db07d9",
+    "type": "split",
+    "children": [
+      {
+        "id": "8f4fd7da6b977de8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "107ee1e335a5694d",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "986f3908528638e5",
+    "type": "split",
+    "children": [
+      {
+        "id": "ff1dd6c5a5e7b5a8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "70e544dbbabdac81",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "801b61d113fa2e20",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "1f8d8e53ba3794a5",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "a7b8f545810027b4",
+    "type": "split",
+    "children": [
+      {
+        "id": "c2c9f4634810bcb2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9e920c6a3a598cc7",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "db594b9024f6a2c6",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "5c7f65aa624496c1",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "1098c6d88f85e29e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "markdown-importer:Open format converter": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "9e920c6a3a598cc7",
+  "lastOpenFiles": [
+    "README.md",
+    "NFT Tutorial.md",
+    "NCL/Images/Wireless Access Exploitation/wiresharkprefs.png",
+    "NCL/Images/Wireless Access Exploitation/wiresharkkeys.png",
+    "NCL/Images/Wireless Access Exploitation/aircrack.jpg",
+    "NCL/Images/Web Application Exploitation/storagepanel.png",
+    "NCL/Images/Web Application Exploitation/requestpayload.png",
+    "NCL/Images/Web Application Exploitation/purchase.png",
+    "NCL/Images/Web Application Exploitation/networkpanel.png",
+    "NCL/Images/Web Application Exploitation/inspectelement2.png",
+    "NCL/Images/Web Application Exploitation/inspectelement.png",
+    "NCL/Images/Web Application Exploitation/incorrectlogin.png",
+    "NCL/Images/Wireless Access Exploitation",
+    "NCL/Images/Web Application Exploitation",
+    "NCL/Images/Steganography",
+    "NCL/Images/Scanning",
+    "NCL/Images/PW Cracking",
+    "NCL/Images/Network Traffic Analysis",
+    "NCL/Images/Log Analysis",
+    "NCL/Images/Enumeration and Exploitation",
+    "NCL/Images/Bardcodes",
+    "NCL/Images",
+    "NCL/Wireless Access Exploitation.md",
+    "NCL/Web Application Exploitation.md",
+    "NCL/Web Application Exploitation SQL.md",
+    "NCL/Steganography.md",
+    "NCL/Scanning.md",
+    "NCL/Password Cracking.md",
+    "NCL/OSINT.md",
+    "NCL/Network Traffic Analysis.md",
+    "NCL/Log Analysis.md",
+    "NCL/Forensics.md",
+    "NCL/Enumeration & Exploitation in Python.md",
+    "NCL/Enumeration & Exploitation in Binary.md",
+    "NCL/Cryptography.md"
+  ]
+}
