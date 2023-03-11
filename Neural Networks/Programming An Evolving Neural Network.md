@@ -30,4 +30,16 @@ In C#, this idea of having N x M matrix where m is a variable length is called a
 In C# `[][]` means a jagged array. 
 >An example of this is `float[][]neruons = new float [numberOflayers][]`
 
-The waitlist, all of the connections that are represented by the black lines, are stored 
+The ==waitlist==, or all of the connections that are represented by the black lines, are stored in a ==three-dimensional jagged array==. 
+
+Any example of this is 
+`int[][][] jagged3d = new int[][][]
+{
+    new int[][] { new int[] { 111, 112 }, new int[] { 121, 122, 123 } },
+    new int[][] { new int[] { 211 } }
+}`
+
+This looks like this
+![[3djagged.png]]
+
+If you n
