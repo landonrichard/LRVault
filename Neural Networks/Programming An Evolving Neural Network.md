@@ -47,3 +47,8 @@ int[][][] jagged3d = new int[][][]
 ![[3djagged.png]]
 
 The input layer will not be stored in this 3d Jagged array. This is because this is a weightlist and the input layer does not have any incoming weights. 
+
+>The 3D Jagged array correlates to the weightlist as shown in the diagram below:
+![[3djaggedexplained.png]]
+
+Please notice that the last array in the first hidden layer in the 3D Jagged Array is empty. This is because the last node in the hidden layer does not have an input. This is a B
