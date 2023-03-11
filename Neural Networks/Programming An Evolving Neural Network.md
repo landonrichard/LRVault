@@ -14,5 +14,6 @@
 
 Notice how each layer and subsequent hidden layer can have a different number of ==nodes== (neurons). This is because each Layer is held in an ==array==.
 
-The array will look some
+>The array will look something like this
+`:| Syntax | Description |   | ----------- | ----------- |   | Header | Title |   | Paragraph | Text |`
 
