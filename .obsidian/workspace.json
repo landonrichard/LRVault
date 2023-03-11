@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NCL/OSINT.md",
+                "file": "NCL/Web Application Exploitation SQL.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0699f60a562c8576",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NCL/OSINT.md",
+                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,21 +155,22 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d457d876fa4dc369",
+  "active": "0699f60a562c8576",
   "lastOpenFiles": [
-    "NCL/Forensics.md",
     "NCL/Enumeration & Exploitation in Python.md",
+    "Untitled.md",
+    "NCL/Web Application Exploitation SQL.md",
+    "NCL/Web Application Exploitation.md",
+    "NCL/OSINT.md",
+    "NCL/Forensics.md",
     "NCL/Cryptography.md",
     "NCL/Enumeration & Exploitation in Binary.md",
     "NFT Tutorial.md",
     "README.md",
     "NCL/Wireless Access Exploitation.md",
-    "NCL/Web Application Exploitation SQL.md",
-    "NCL/Web Application Exploitation.md",
     "NCL/Steganography.md",
     "NCL/Scanning.md",
     "NCL/Password Cracking.md",
-    "NCL/OSINT.md",
     "NCL/Network Traffic Analysis.md",
     "NCL/Log Analysis.md",
     "NCL/Images/Enumeration and Exploitation/binary8.png",
