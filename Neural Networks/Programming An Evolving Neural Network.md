@@ -19,6 +19,13 @@ L1 - `[1,2,3]`
 L2 - `[1,2,3,4,5]`
 L3 - `[1,2]`
 
->The ==array== of layers is then wrapped into a ==two-dimensional matrix== with every single row in the matrix having the ability to have ==variable lengths==.
-This would look something like:
->![[Matrix Example.png]]
+The ==array== of layers is then wrapped into a ==two-dimensional matrix== with every single row in the matrix having the ability to have ==variable lengths==.
+>**This would look something like:**
+![[Matrix Example.png]]
+
+In C#, this idea of having N x M matrix where m is a variable length is called a Jagged Array. 
+
+**Jagged Array** - `An array whose elements are arrays, possibly of different sizes. Also called an array of arrays`
+
+In C# [][] means a jagged array. 
+>`float[][]neruons = new float 
