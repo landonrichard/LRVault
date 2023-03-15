@@ -18,8 +18,21 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "2cbc9e06e0414d43",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "NeuralNetworks.CS.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Neural Networks/Programming An Evolving Unsupervised Learning Neural Network.md",
+                "file": "NeuralNetworks.CS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,8 +155,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "297b105d60d98da2",
+  "active": "2cbc9e06e0414d43",
   "lastOpenFiles": [
+    "Neural Networks/Programming An Evolving Unsupervised Learning Neural Network.md",
+    "NeuralNetworks.CS.md",
     "Neural Networks/Images/3djaggedexplained.png",
     "Neural Networks/Images/3djagged.png",
     "Neural Networks/Images/Matrix Example.png",
@@ -153,7 +168,6 @@
     "NCL/Steganography.md",
     "NCL/Password Cracking.md",
     "NCL/OSINT.md",
-    "Neural Networks/Programming An Evolving Unsupervised Learning Neural Network.md",
     "Neural Networks/Images/Architecture.jpg",
     "Neural Networks/Images",
     "Neural Networks/New folder",
@@ -167,7 +181,6 @@
     "NCL/Cryptography.md",
     "Untitled.canvas",
     "Neural Networks",
-    "Untitled.md",
     "NFT Tutorial.md",
     "README.md",
     "NCL/Images/Enumeration and Exploitation/binary8.png",
@@ -175,7 +188,6 @@
     "NCL/Images/Enumeration and Exploitation/binary4.png",
     "NCL/Images/Enumeration and Exploitation/binary1.png",
     "NCL/Images/Bardcodes/code128.jpg",
-    "NCL/Images/Bardcodes/code39.jpg",
     "Test.md",
     "NCL/Images/Wireless Access Exploitation",
     "NCL/Images/Web Application Exploitation",
