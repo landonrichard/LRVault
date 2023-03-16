@@ -129,4 +129,15 @@ The competition includes a computer programming problem consisting of background
 >> - [Sequence, Selection, and Iteration](https://learnprogramming.academy/programming/sequence-selection-and-iteration-the-building-blocks-of-programming-languages/)
 >> - **Here is a document going over this better in C++ [[Selection and Iteration in C++]]**
 >
->3.3 - 
+>>3.3 - Create C++ programs using functions
+>> - [Functions In C++ YouTube](https://www.youtube.com/watch?v=WpsLyYmYPbg)
+>> - [W3 - Interactive C++ Functions](https://www.w3schools.com/cpp/cpp_functions.asp)
+>> - [C++ Functions](https://www.programiz.com/cpp-programming/function)
+>
+>>3.4 - Write C++ programs using one-dimensional arrays
+>> - [One Dimensional Array in C++ with Example Program YouTube](https://www.youtube.com/watch?v=9JRuS_a1vGk)
+>> - [C++ One-Dimensional Array](https://codescracker.com/cpp/cpp-one-dimensional-arrays.htm)
+>> - [One Dimensional Array in C++ Programming](https://www.dremendo.com/cpp-programming-tutorial/cpp-one-dimensional-array)
+>
+>>3.5 - Properly document and debug C++ programs
+>> - 
