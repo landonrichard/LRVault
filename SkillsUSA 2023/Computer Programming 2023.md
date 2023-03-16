@@ -82,4 +82,14 @@ The competition includes a computer programming problem consisting of background
 >
 >>2.9 - Summarize Java’s variable naming conventions
 >> - [Naming Convention in Java YouTube](https://www.youtube.com/watch?v=QZ1bsTqxmAw)
->> - [# Java Naming Convention]()
+>> - [Java Naming Convention](https://www.javatpoint.com/java-naming-conventions)
+>> - [Java Naming Conventions 2](https://www.educative.io/answers/what-are-the-naming-conventions-in-java)
+>
+>>2.10 - Distinguish syntax errors, runtime errors and logic errors
+>> - [Java Programming Syntax Errors and Logical Errors YouTube](https://www.youtube.com/watch?v=qaR0DWsgLcE)
+>> - [Errors in Java CodeHS](https://codehs.com/tutorial/david/errors-in-java)
+>> - [Java Error Types](https://www.geeksforgeeks.org/types-of-errors-in-java-with-examples/)
+>
+>>2.11 - Understand program flow control in selection and loop statements
+>> - [Java - What are Control Flow Statements](https://www.youtube.com/watch?v=0bWnwpZt67w)
+>> - [Computer Science Basics: Sequences, Selections, and Loops]()
