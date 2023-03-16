@@ -127,4 +127,6 @@ The competition includes a computer programming problem consisting of background
 >>3.2 - Write C++ programs using selection and iteration
 >> - [Computer Science Basics: Sequences, Selections, and Loops YouTube](https://www.youtube.com/watch?v=eSYeHlwDCNA)
 >> - [Sequence, Selection, and Iteration](https://learnprogramming.academy/programming/sequence-selection-and-iteration-the-building-blocks-of-programming-languages/)
->> - Here is a document going over this better in C++ [[#]]
+>> - **Here is a document going over this better in C++ [[Selection and Iteration in C++]]**
+>
+>3.3 - 

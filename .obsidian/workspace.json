@@ -18,21 +18,8 @@
                 "source": true
               }
             }
-          },
-          {
-            "id": "2d03d203f6ff7d01",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SkillsUSA 2023/Selection and Iteration in C++.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SkillsUSA 2023/Selection and Iteration in C++.md",
+                "file": "SkillsUSA 2023/Computer Programming 2023.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,10 +142,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2d03d203f6ff7d01",
+  "active": "86cc4c6310283f1c",
   "lastOpenFiles": [
-    "SkillsUSA 2023/Computer Programming 2023.md",
     "SkillsUSA 2023/Selection and Iteration in C++.md",
+    "SkillsUSA 2023/Computer Programming 2023.md",
     "SkillsUSA 2023.md",
     "SkillsUSA 2023",
     "README.md",
