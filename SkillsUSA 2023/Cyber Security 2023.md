@@ -5,23 +5,28 @@ To evaluate each competitor’s preparation for employment and to recognize outs
 ---
 
 #### Software Required
-- Dual Boot Windows 10 and Kali
-- Putty
-- Autopsy
-- AccessData FTK Imager (Free)
+- Dual Boot [Windows 10](https://www.microsoft.com/en-us/software-download/windows10) and [Kali](https://www.kali.org/)
+- [Putty](https://www.putty.org/)
+- [Autopsy](https://www.autopsy.com/)
+- [AccessData FTK Imager (Freeware)](https://www.exterro.com/ftk-imager)
+- [Wireshark](https://www.wireshark.org/)
+- [Nmap](https://nmap.org/)/[Zenmap](https://nmap.org/zenmap/) 
+
+---
+
+#### Knowledge Performance Check
+Competitors will take an examination covering their knowledge of common cyber security tenets as defined by the objectives of CompTIA’s Security+ or ETA’s ITS certifications. This involves knowledge of common cybersecurity tools, techniques, and practices. Questions cover key cyber security systems and devices, including those related to end point devices, software, managed switches, enterprise routers, wireless access points, firewalls, pentesting tools, and digital/network forensic activities. The exam consists of multiple-choice questions and lasts up to two hours.   
 
 ---
 
 #### Skill Performance Check
-The competition includes a computer programming problem consisting of background information and program specifications with accompanying reference materials and description of program output requirements. An appropriate (successfully executable) computer program from design notes and instructions will be developed.
+This portion of the competition consists of several Provisioning, Testing, Deployment, Operational and Maintenance, and Protection and Defensive procedures with the end goals set by the technical committee. Competitors must successfully complete assigned tasks at several independent Activity Stations. The tasks are designed to provide a variety of Cyber Security challenges based on the recommended best practices of the industry. Identical tasks are used in high school and college/postsecondary categories. Approximately, 45 minutes are allowed at each station. 
 
 ---
 
 #### Competition Guidelines
-1. The competitors will receive a packet that includes three or four projects. 
-2. Each project’s specifications are written for either Java, C, C++, C# Python, Ruby, JavaScript, PHP, Objective-C, SQL. 
-3. Projects will be scored on the following six criteria: completeness, correctness of output, validation of input, internal documentation, efficiency of code, and quality of work. 
-4. The competition will also include an interview to assess competitors’ ability to answer questions typical of an entry-level position for a computer programmer.
+ The competition requires a team (tactical unit) of two competitors. 
+Each will have to display equivalent subject matter expertise in all competency areas. The stages of the competition are as follows:  a.Cognitive Domain — The Knowledge/Certification exam and the Professional Interview  b.Psychomotor Domain — Hands-on skills task stations.  
 
 ---
 
