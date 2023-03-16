@@ -41,7 +41,13 @@ This portion of the competition consists of several Provisioning, Testing, Deplo
 
 ##### **Station 2: Professional Activities Station**
 **Competitors will provide verbal instructions or explanations to an evaluator for the task presented at the professional activities station.**
->> -  [S
+>> 2.1 - Train a fellow employee how to avoid phishing attempts associated with emails and web sites. This should include user level examples of things to look for to avoid common items used as bait.
+>> [How To Recognize and Avoid Phishing Scams YouTube](https://www.youtube.com/watch?v=Yz0PnAkeRiI)
+>> [FTC - How to Recognize and Avoid Phishing Scams](https://consumer.ftc.gov/articles/how-recognize-and-avoid-phishing-scams)
+>> [OCC - Phishing Attack Prevention](https://www.occ.gov/topics/consumers-and-communities/consumer-protection/fraud-resources/phishing-attack-prevention.html)
+>
+>>2.2 - Explain requirements for (and methods of) creating strong passwords to senior management personnel in your company.
+>>[NIST Password Guidel]
 
 ---
 
