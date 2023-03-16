@@ -11,8 +11,12 @@
             "id": "d2f7748bfe0c4880",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "SkillsUSA 2023/Computer Programming 2023.md",
+                "mode": "source",
+                "source": true
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "SkillsUSA 2023/Computer Programming 2023.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,6 +144,9 @@
   },
   "active": "d2f7748bfe0c4880",
   "lastOpenFiles": [
+    "SkillsUSA 2023.md",
+    "SkillsUSA 2023/Computer Programming 2023.md",
+    "SkillsUSA 2023",
     "README.md",
     "NFT Tutorial.md",
     "NeuralNetworks.CS.md",
@@ -176,7 +184,6 @@
     "NCL/Images/Steganography",
     "NCL/Images/Scanning",
     "NCL/Images/PW Cracking",
-    "NCL/Images/Network Traffic Analysis",
-    "NCL/Images/Log Analysis"
+    "NCL/Images/Network Traffic Analysis"
   ]
 }
