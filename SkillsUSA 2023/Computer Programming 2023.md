@@ -62,4 +62,9 @@ The competition includes a computer programming problem consisting of background
 >> - [Basic Java Compilation and Execution](https://www.tutorialspoint.com/Compilation-and-execution-of-Java-Program)
 >
 >>2.5 - Demonstrate use of Java’s online hypertext technology documentation
->> - 
+>> - [IBM - Java API Docs Overview YouTube](https://www.youtube.com/watch?v=ULEOb8wLa_k)
+>> - [Oracle - JavaDocs](https://www.oracle.com/technical-resources/articles/java/javadoc-tool.html)
+>
+>>2.6 - Demonstrate use of Java’s identifiers to name variables, constants, and methods
+>> - [Identifiers in Java](https://www.javatpoint.com/identifiers-in-java)
+>> -  []
