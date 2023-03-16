@@ -74,3 +74,12 @@ The competition includes a computer programming problem consisting of background
 >> - [Operators & Conditionals | Chapter-3 | Java Programming Youtube Playlist](https://www.youtube.com/playlist?list=PLBlnK6fEyqRjvfJZwWN0kAQg_UbTJwo1R)
 >> - [W3 - Interactive Java Operators](https://www.w3schools.com/java/java_operators.asp)
 >> - [Oracle - Java Operators](https://docs.oracle.com/javase/tutorial/java/nutsandbolts/operators.html)
+>
+>>2.8 - Explain the rules governing operand evaluation order and operator precedence
+>> - [Operator Precedence / Order Of Operation YouTube](https://www.youtube.com/watch?v=gEJEDdambGc)
+>> - [Java Operator Precedence](https://www.javatpoint.com/java-operator-precedence)
+>> - [Highest Precedence in Java](https://www.javatpoint.com/highest-precedence-in-java)
+>
+>>2.9 - Summarize Java’s variable naming conventions
+>> - [Naming Convention in Java YouTube](https://www.youtube.com/watch?v=QZ1bsTqxmAw)
+>> - [# Java Naming Convention]()
