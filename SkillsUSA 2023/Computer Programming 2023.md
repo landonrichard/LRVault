@@ -33,7 +33,7 @@ The competition includes a computer programming problem consisting of background
 #### Standards and Competencies
 ##### **1.0 - Demonstrate Knowledge of Computer Programming**
 >> 1.1 Describe how programs and programming languages work
->> - https://tldp.org/HOWTO/Unix-and-Internet-Fundamentals-HOWTO/languages.html
+>> - [[https://tldp.org/HOWTO/Unix-and-Internet-Fundamentals-HOWTO/languages.html | TLDP Programming Language Fundamentals]]
 >> - https://www.makeuseof.com/tag/what-is-coding/
 >> - https://www.codeconquest.com/what-is-coding/how-does-coding-work/
 >
@@ -45,5 +45,8 @@ The competition includes a computer programming problem consisting of background
 
 ##### **2.0 -  Perform Competencies Related to Java Programming**
 >>2.1 - Explain the structured programming paradigm
->>See 1.2 for information on this topic 
-
+>> - See 1.2 for information on this topic [[#**1.0 - Demonstrate Knowledge of Computer Programming**]]
+>
+>>2.2 - Identify the primary components of a Java program
+>> - https://www.mta.ca/~rrosebru/oldcourse/comp1711/171102/comp1711A/Anatomy.html
+>>
