@@ -53,4 +53,11 @@ The competition includes a computer programming problem consisting of background
 >> - [Structure of a Java Program](https://www.javatpoint.com/structure-of-java-program)
 >
 >>2.3 - Explain the basic syntax of a Java program
->> - [Basic Java Syntax YouTube V]
+>> - [Basic Java Syntax YouTube](https://www.youtube.com/watch?v=3lOhz1F1zHA)
+>> - [Java - Basic Syntax](https://www.tutorialspoint.com/java/java_basic_syntax.htm)
+>> - [CodeGym - Java Syntax Brief](https://codegym.cc/groups/posts/java-syntax)
+>
+>>2.4 - Demonstrate procedures for compiling and running a Java application
+>> - [# Creating, Compiling, & Executing a Java Program YouTube](https://www.youtube.com/watch?v=gHXzyAkbUhk)
+>> - [Basic Java Compilation and Execution](https://www.tutorialspoint.com/Compilation-and-execution-of-Java-Program)
+>> - 
