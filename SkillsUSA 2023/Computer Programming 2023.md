@@ -182,4 +182,11 @@ The competition includes a computer programming problem consisting of background
 >>4.2 - Use sequential and random-access files in VB programs
 >> - [Sequential Vs Random Access YouTube](https://www.youtube.com/watch?v=ZmKqGnYUB0M)
 >
->>
+>>4.3 - Use advanced controls and multiple controls in a business application
+>> - [Visual Basic Dynamic Controls](https://www.youtube.com/watch?v=Lk4-dUqti1I)
+>> - [VB Basic Controls](https://www.tutorialspoint.com/vb.net/vb.net_basic_controls.htm)
+>
+>>4.4 - Use a database and database controls in a business application
+>> - [Visual Basic Access Database YouTube](https://www.youtube.com/watch?v=XRVBpTFa3To)
+>> - [SQL Database in Visual Studio YouTube](https://www.youtube.com/watch?v=5nTlqgQLkIc)
+>> - 
