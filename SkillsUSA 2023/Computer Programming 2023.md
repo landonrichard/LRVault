@@ -189,4 +189,13 @@ The competition includes a computer programming problem consisting of background
 >>4.4 - Use a database and database controls in a business application
 >> - [Visual Basic Access Database YouTube](https://www.youtube.com/watch?v=XRVBpTFa3To)
 >> - [SQL Database in Visual Studio YouTube](https://www.youtube.com/watch?v=5nTlqgQLkIc)
->> - 
+>> - [VB Database Access with the Data Control](https://www.thevbprogrammer.com/ch11/11-02-daodc.htm)
+>
+>>4.5 - Demonstrate knowledge of structured and object-oriented programming techniques through the process of subprograms, selection, and repetition in projects
+>> - [Visual Basic Repetition and For Loop YouTube](https://www.youtube.com/watch?v=hq0M0YflS1s)
+>> - [Visual Basic Programming - Sub Procedures vs. Functions YouTube](https://www.youtube.com/watch?v=BZB7WvPDtec)
+>> - [Control Structures in Programming](https://www.pearsonhighered.com/assets/samplechapter/0/1/3/0/0130461318.pdf)
+>> - [Subroutines and Functions in VB](http://www.cs.ucr.edu/~eamonn/teaching/cs5/cs5_04sum/slides/Chapter5.pdf)
+>
+>>4.6 - Use GUI design principles in all projects
+>> - [Basic GUI Programming in VB.Net YouTube]
