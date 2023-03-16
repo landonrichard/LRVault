@@ -25,96 +25,23 @@ This portion of the competition consists of several Provisioning, Testing, Deplo
 ---
 
 #### Competition Guidelines
- The competition requires a team (tactical unit) of two competitors. 
-Each will have to display equivalent subject matter expertise in all competency areas. The stages of the competition are as follows:  a.Cognitive Domain — The Knowledge/Certification exam and the Professional Interview  b.Psychomotor Domain — Hands-on skills task stations.  
+- The competition requires a team (tactical unit) of two competitors. Each will have to display equivalent subject matter expertise in all competency areas. The stages of the competition are as follows:  
+1. Cognitive Domain — The Knowledge/Certification exam and the Professional Interview 
+2. Psychomotor Domain — Hands-on skills task stations.  
 
 ---
 
-#### Standards and Competencies
-##### **1.0 - Demonstrate Knowledge of Computer Programming**
->> 1.1 Describe how programs and programming languages work
->> - [TLDP Programming Fundamentals](https://tldp.org/HOWTO/Unix-and-Internet-Fundamentals-HOWTO/languages.html)
->> - [What is Coding?](https://www.makeuseof.com/tag/what-is-coding/)
->> - [How Does Coding Work?](https://www.codeconquest.com/what-is-coding/how-does-coding-work/)
->
->> 1.2 - Describe the purposes and practices of structured programming
->>> The purpose of structured programming is to help developers write code that is clear, organized, and easy to understand and maintain over time. By using structured programming practices, students can develop the skills and habits necessary to write high-quality, reliable code that can be used in a variety of applications.
->> - [Structured Programming vs Unstructured Programming](https://www.techtarget.com/searchsoftwarequality/definition/structured-programming-modular-programming)
->> - [Structured Programming Breakdown](https://press.rebus.community/programmingfundamentals/chapter/structured-programming/)
->> - [Structured Programming Defined](https://www.techopedia.com/definition/16413/structured-programming)
+#### Competition Stations
+##### **Station 1: Cybersecurity Professional Certification Exam Station**
+>> 1.1 CompTIA Security+ or ETA ITS Certification exams for professional certification.
+>>  - [CompTIA Security+](https://www.comptia.org/certifications/security)
+>>  - [ETA ITS](https://www.etai.org/)
 
 ---
 
-##### **2.0 -  Perform Competencies Related to Java Programming**
->>2.1 - Explain the structured programming paradigm
->> -  [Structured Programming vs Unstructured Programming](https://www.techtarget.com/searchsoftwarequality/definition/structured-programming-modular-programming)
->> - [Structured Programming Breakdown](https://press.rebus.community/programmingfundamentals/chapter/structured-programming/)
->> - [Structured Programming Defined](https://www.techopedia.com/definition/16413/structured-programming)
->
->>2.2 - Identify the primary components of a Java program
->> - [MTA Java Anatomy](https://www.mta.ca/~rrosebru/oldcourse/comp1711/171102/comp1711A/Anatomy.html)
->> - [Component Breakdown of a Java Program](https://javatechonline.com/what-are-the-components-of-java-program/)
->> - [Structure of a Java Program](https://www.javatpoint.com/structure-of-java-program)
->
->>2.3 - Explain the basic syntax of a Java program
->> - [Basic Java Syntax YouTube](https://www.youtube.com/watch?v=3lOhz1F1zHA)
->> - [Java - Basic Syntax](https://www.tutorialspoint.com/java/java_basic_syntax.htm)
->> - [CodeGym - Java Syntax Brief](https://codegym.cc/groups/posts/java-syntax)
->
->>2.4 - Demonstrate procedures for compiling and running a Java application
->> - [# Creating, Compiling, & Executing a Java Program YouTube](https://www.youtube.com/watch?v=gHXzyAkbUhk)
->> - [Basic Java Compilation and Execution](https://www.tutorialspoint.com/Compilation-and-execution-of-Java-Program)
->
->>2.5 - Demonstrate use of Java’s online hypertext technology documentation
->> - [IBM - Java API Docs Overview YouTube](https://www.youtube.com/watch?v=ULEOb8wLa_k)
->> - [Oracle - JavaDocs](https://www.oracle.com/technical-resources/articles/java/javadoc-tool.html)
->
->>2.6 - Demonstrate use of Java’s identifiers to name variables, constants, and methods
->> - [Identifiers in Java YouTube](https://www.youtube.com/watch?v=1C9f4mqDDlY)
->> - [Identifiers in Java](https://www.javatpoint.com/identifiers-in-java)
->> -  [Oracle - Naming Conventions in Java](https://www.oracle.com/java/technologies/javase/codeconventions-namingconventions.html)
->
->>2.7 - Demonstrate use of Java’s operators to write expressions
->> - [Operators & Conditionals | Chapter-3 | Java Programming Youtube Playlist](https://www.youtube.com/playlist?list=PLBlnK6fEyqRjvfJZwWN0kAQg_UbTJwo1R)
->> - [W3 - Interactive Java Operators](https://www.w3schools.com/java/java_operators.asp)
->> - [Oracle - Java Operators](https://docs.oracle.com/javase/tutorial/java/nutsandbolts/operators.html)
->
->>2.8 - Explain the rules governing operand evaluation order and operator precedence
->> - [Operator Precedence / Order Of Operation YouTube](https://www.youtube.com/watch?v=gEJEDdambGc)
->> - [Java Operator Precedence](https://www.javatpoint.com/java-operator-precedence)
->> - [Highest Precedence in Java](https://www.javatpoint.com/highest-precedence-in-java)
->
->>2.9 - Summarize Java’s variable naming conventions
->> - [Naming Convention in Java YouTube](https://www.youtube.com/watch?v=QZ1bsTqxmAw)
->> - [Java Naming Convention](https://www.javatpoint.com/java-naming-conventions)
->> - [Java Naming Conventions 2](https://www.educative.io/answers/what-are-the-naming-conventions-in-java)
->
->>2.10 - Distinguish syntax errors, runtime errors and logic errors
->> - [Java Programming Syntax Errors and Logical Errors YouTube](https://www.youtube.com/watch?v=qaR0DWsgLcE)
->> - [Errors in Java CodeHS](https://codehs.com/tutorial/david/errors-in-java)
->> - [Java Error Types](https://www.geeksforgeeks.org/types-of-errors-in-java-with-examples/)
->
->>2.11 - Understand program flow control in selection and loop statements
->> - [Java - What are Control Flow Statements YouTube](https://www.youtube.com/watch?v=0bWnwpZt67w)
->> - [Computer Science Basics: Sequences, Selections, and Loops YouTube](https://www.youtube.com/watch?v=eSYeHlwDCNA)
->> - [Java Control Statements](https://www.javatpoint.com/control-flow-in-java)
->> - [Java Flow Control Statements](https://howtodoinjava.com/java/flow-control/control-flow-statements/)
->
->>2.12 - Demonstrate use of methods in Java
->> - [Methods in Java Tutorial YouTube](https://www.youtube.com/watch?v=cCgOESMQe44)
->> - [Java Methods](https://www.tutorialspoint.com/java/java_methods.htm)
->> - [W3 - Interactive Java Methods](https://www.w3schools.com/java/java_methods.asp)
->
->>2.13 - Demonstrate use of declaring, initializing and accessing elements in arrays
->> - [Java Arrays YouTube](https://www.youtube.com/watch?v=xzjZy-dHHLw)
->> - [W3 - Interactive Java Arrays](https://www.w3schools.com/java/java_arrays.asp)
->> - [Arrays in Java](https://www.geeksforgeeks.org/arrays-in-java/)
->> - [Java Arrays](https://www.javatpoint.com/array-in-java)
->
->>2.14 - Demonstrate use of the string class to process fixed strings
->> - [Java String Methods YouTube](https://www.youtube.com/watch?v=vbZ85D8Hvh0)
->> - [Java Strings](https://www.javatpoint.com/java-string)
->> - [Strings in Java](https://www.geeksforgeeks.org/strings-in-java/)
+##### **Station 2: Professional Activities Station**
+**Competitors will provide verbal instructions or explanations to an evaluator for the task presented at the professional activities station.**
+>> -  [S
 
 ---
 
