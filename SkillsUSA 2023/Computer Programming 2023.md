@@ -45,8 +45,12 @@ The competition includes a computer programming problem consisting of background
 
 ##### **2.0 -  Perform Competencies Related to Java Programming**
 >>2.1 - Explain the structured programming paradigm
->> - See 1.2 for information on this topic [[#**1.0 - Demonstrate Knowledge of Computer Programming**]]
+>> - See Section 1.2 for information on this topic
 >
 >>2.2 - Identify the primary components of a Java program
->> - https://www.mta.ca/~rrosebru/oldcourse/comp1711/171102/comp1711A/Anatomy.html
->>
+>> - [MTA Java Anatomy](https://www.mta.ca/~rrosebru/oldcourse/comp1711/171102/comp1711A/Anatomy.html)
+>> - [Component Breakdown of a Java Program](https://javatechonline.com/what-are-the-components-of-java-program/)
+>> - [Structure of a Java Program](https://www.javatpoint.com/structure-of-java-program)
+>
+>>2.3 - Explain the basic syntax of a Java program
+>> - [Basic Java Syntax YouTube V]
