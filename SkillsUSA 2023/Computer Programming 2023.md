@@ -45,7 +45,9 @@ The competition includes a computer programming problem consisting of background
 
 ##### **2.0 -  Perform Competencies Related to Java Programming**
 >>2.1 - Explain the structured programming paradigm
->> - See Section 1.2 for information on this topic
+>> -  [Structured Programming vs Unstructured Programming](https://www.techtarget.com/searchsoftwarequality/definition/structured-programming-modular-programming)
+>> - [Structured Programming Breakdown](https://press.rebus.community/programmingfundamentals/chapter/structured-programming/)
+>> - [Structured Programming Defined](https://www.techopedia.com/definition/16413/structured-programming)
 >
 >>2.2 - Identify the primary components of a Java program
 >> - [MTA Java Anatomy](https://www.mta.ca/~rrosebru/oldcourse/comp1711/171102/comp1711A/Anatomy.html)
@@ -102,4 +104,10 @@ The competition includes a computer programming problem consisting of background
 >> - [W3 - Interactive Java Methods](https://www.w3schools.com/java/java_methods.asp)
 >
 >>2.13 - Demonstrate use of declaring, initializing and accessing elements in arrays
+>> - [Java Arrays YouTube](https://www.youtube.com/watch?v=xzjZy-dHHLw)
+>> - [W3 - Interactive Java Arrays](https://www.w3schools.com/java/java_arrays.asp)
+>> - [Arrays in Java](https://www.geeksforgeeks.org/arrays-in-java/)
+>> - [Java Arrays](https://www.javatpoint.com/array-in-java)
+>
+>>2.14 - Demonstrate use of the string class to process fixed strings
 >> - 
