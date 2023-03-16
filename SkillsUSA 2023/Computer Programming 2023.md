@@ -66,5 +66,11 @@ The competition includes a computer programming problem consisting of background
 >> - [Oracle - JavaDocs](https://www.oracle.com/technical-resources/articles/java/javadoc-tool.html)
 >
 >>2.6 - Demonstrate use of Java’s identifiers to name variables, constants, and methods
+>> - [Identifiers in Java YouTube](https://www.youtube.com/watch?v=1C9f4mqDDlY)
 >> - [Identifiers in Java](https://www.javatpoint.com/identifiers-in-java)
->> -  []
+>> -  [Oracle - Naming Conventions in Java](https://www.oracle.com/java/technologies/javase/codeconventions-namingconventions.html)
+>
+>>2.7 - Demonstrate use of Java’s operators to write expressions
+>> - [Operators & Conditionals | Chapter-3 | Java Programming Youtube Playlist](https://www.youtube.com/playlist?list=PLBlnK6fEyqRjvfJZwWN0kAQg_UbTJwo1R)
+>> - [W3 - Interactive Java Operators](https://www.w3schools.com/java/java_operators.asp)
+>> - [Oracle - Java Operators](https://docs.oracle.com/javase/tutorial/java/nutsandbolts/operators.html)
