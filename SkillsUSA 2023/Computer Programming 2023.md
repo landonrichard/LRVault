@@ -43,6 +43,8 @@ The competition includes a computer programming problem consisting of background
 >> - [Structured Programming Breakdown](https://press.rebus.community/programmingfundamentals/chapter/structured-programming/)
 >> - [Structured Programming Defined](https://www.techopedia.com/definition/16413/structured-programming)
 
+---
+
 ##### **2.0 -  Perform Competencies Related to Java Programming**
 >>2.1 - Explain the structured programming paradigm
 >> -  [Structured Programming vs Unstructured Programming](https://www.techtarget.com/searchsoftwarequality/definition/structured-programming-modular-programming)
@@ -110,4 +112,18 @@ The competition includes a computer programming problem consisting of background
 >> - [Java Arrays](https://www.javatpoint.com/array-in-java)
 >
 >>2.14 - Demonstrate use of the string class to process fixed strings
->> - 
+>> - [Java String Methods YouTube](https://www.youtube.com/watch?v=vbZ85D8Hvh0)
+>> - [Java Strings](https://www.javatpoint.com/java-string)
+>> - [Strings in Java](https://www.geeksforgeeks.org/strings-in-java/)
+
+---
+
+##### **3.0 -  Perform Competencies Related to C++ Programming**
+>>3.1 - Write C++ programs using input/output statements
+>> - [Input and Output in C++ YouTube](https://www.youtube.com/watch?v=1Wrc91mp980)
+>> - [Basic Input / Output in C++](https://www.geeksforgeeks.org/basic-input-output-c/)
+>> - [C++ Basic Input/Output](https://www.programiz.com/cpp-programming/input-output)
+>
+>>3.2 - Write C++ programs using selection and iteration
+>
+>
