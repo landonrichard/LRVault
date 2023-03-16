@@ -174,4 +174,12 @@ The competition includes a computer programming problem consisting of background
 
 ##### **4.0 -  Perform Competencies Related to Visual Basic Programming**
 >>4.1 - Demonstrate knowledge of the fundamentals of Visual Basic (VB) programming using Visual Basic.NET
->> - [
+>> - [Visual Basic.NET Programming. Beginner Lesson](https://www.youtube.com/watch?v=Y8c1IHZs5qc)
+>> - [Visual Basic (VB.NET) – Full Course for Beginners **3 Hours**](https://www.youtube.com/watch?v=HFWQdGn5DaU)
+>> - [Microsoft Visual Basic Docs](https://learn.microsoft.com/en-us/dotnet/visual-basic/)
+>> - [Visual Basic Intro](https://www.tutlane.com/tutorial/visual-basic/vb-introduction)
+>
+>>4.2 - Use sequential and random-access files in VB programs
+>> - [Sequential Vs Random Access YouTube](https://www.youtube.com/watch?v=ZmKqGnYUB0M)
+>
+>>
