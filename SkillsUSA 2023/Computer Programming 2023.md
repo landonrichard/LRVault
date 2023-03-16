@@ -30,6 +30,10 @@ The competition includes a computer programming problem consisting of background
 >> - https://www.codeconquest.com/what-is-coding/how-does-coding-work/
 >
 >>1.2 - Describe the purposes and practices of structured programming
+>>> The purpose of structured programming is to help developers write code that is clear, organized, and easy to understand and maintain over time. By using structured programming practices, students can develop the skills and habits necessary to write high-quality, reliable code that can be used in a variety of applications.
 >> - https://www.techtarget.com/searchsoftwarequality/definition/structured-programming-modular-programming
 >> - https://press.rebus.community/programmingfundamentals/chapter/structured-programming/
 >> - https://www.techopedia.com/definition/16413/structured-programming
+>>
+
+
