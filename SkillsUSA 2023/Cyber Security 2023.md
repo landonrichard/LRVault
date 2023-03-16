@@ -1,19 +1,14 @@
 #SkillsUSA
 #### Purpose
-To evaluate each competitor’s preparation for employment and to recognize outstanding students for excellence and professionalism in the field of computer programming.
+To evaluate each competitor’s preparation for employment and to recognize outstanding students for excellence and professionalism with relation to the entry level skills within the field of Cybersecurity.
 
 ---
 
-#### Languages Assessed
-- Java
-- C
-- C++
-- C#
-- Python
-- Ruby
-- JavaScript
-- PHP
-- SQL
+#### Software Required
+- Dual Boot Windows 10 and Kali
+- Putty
+- Autopsy
+- AccessData FTK Imager (Free)
 
 ---
 
