@@ -34,6 +34,10 @@ The competition includes a computer programming problem consisting of background
 >> - https://www.techtarget.com/searchsoftwarequality/definition/structured-programming-modular-programming
 >> - https://press.rebus.community/programmingfundamentals/chapter/structured-programming/
 >> - https://www.techopedia.com/definition/16413/structured-programming
->>
 
+>**2.0 -  Perform Competencies Related to Java Programming**
+>>2.1 - Explain the structured programming paradigm
+>>**See 1.2 for information on this topic**
+>
+>>
 
