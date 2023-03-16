@@ -91,5 +91,15 @@ The competition includes a computer programming problem consisting of background
 >> - [Java Error Types](https://www.geeksforgeeks.org/types-of-errors-in-java-with-examples/)
 >
 >>2.11 - Understand program flow control in selection and loop statements
->> - [Java - What are Control Flow Statements](https://www.youtube.com/watch?v=0bWnwpZt67w)
->> - [Computer Science Basics: Sequences, Selections, and Loops]()
+>> - [Java - What are Control Flow Statements YouTube](https://www.youtube.com/watch?v=0bWnwpZt67w)
+>> - [Computer Science Basics: Sequences, Selections, and Loops YouTube](https://www.youtube.com/watch?v=eSYeHlwDCNA)
+>> - [Java Control Statements](https://www.javatpoint.com/control-flow-in-java)
+>> - [Java Flow Control Statements](https://howtodoinjava.com/java/flow-control/control-flow-statements/)
+>
+>>2.12 - Demonstrate use of methods in Java
+>> - [Methods in Java Tutorial YouTube](https://www.youtube.com/watch?v=cCgOESMQe44)
+>> - [Java Methods](https://www.tutorialspoint.com/java/java_methods.htm)
+>> - [W3 - Interactive Java Methods](https://www.w3schools.com/java/java_methods.asp)
+>
+>>2.13 - Demonstrate use of declaring, initializing and accessing elements in arrays
+>> - 
