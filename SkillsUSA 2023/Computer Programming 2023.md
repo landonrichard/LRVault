@@ -140,4 +140,12 @@ The competition includes a computer programming problem consisting of background
 >> - [One Dimensional Array in C++ Programming](https://www.dremendo.com/cpp-programming-tutorial/cpp-one-dimensional-array)
 >
 >>3.5 - Properly document and debug C++ programs
+>> - [Debug a C++ project in VS Code YouTube](https://www.youtube.com/watch?v=G9gnSGKYIg4)
+>> - [Microsoft - Debug with C++ using the Visual Studio debugger](https://learn.microsoft.com/en-us/visualstudio/debugger/quickstart-debug-with-cplusplus?view=vs-2022)
+>
+>>3.6 - Create object concepts and terminology
+>> - [# C++ Classes and Objects](https://www.geeksforgeeks.org/c-classes-and-objects/)
+>> - [Introduction to Classes and Objects in C++](https://www.youtube.com/watch?v=iVLQeWbgbXs)
+>
+>>3.7 - Implement those algorithms in the C++ programming language using classes
 >> - 
