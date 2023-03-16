@@ -60,4 +60,6 @@ The competition includes a computer programming problem consisting of background
 >>2.4 - Demonstrate procedures for compiling and running a Java application
 >> - [# Creating, Compiling, & Executing a Java Program YouTube](https://www.youtube.com/watch?v=gHXzyAkbUhk)
 >> - [Basic Java Compilation and Execution](https://www.tutorialspoint.com/Compilation-and-execution-of-Java-Program)
+>
+>>2.5 - Demonstrate use of Java’s online hypertext technology documentation
 >> - 
