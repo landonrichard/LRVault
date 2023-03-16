@@ -140,6 +140,7 @@ The competition includes a computer programming problem consisting of background
 >> - [One Dimensional Array in C++ Programming](https://www.dremendo.com/cpp-programming-tutorial/cpp-one-dimensional-array)
 >
 >>3.5 - Properly document and debug C++ programs
+>> - [Debugging in C++](https://www.youtube.com/watch?v=k0DOR8Ow3CA)
 >> - [Debug a C++ project in VS Code YouTube](https://www.youtube.com/watch?v=G9gnSGKYIg4)
 >> - [Microsoft - Debug with C++ using the Visual Studio debugger](https://learn.microsoft.com/en-us/visualstudio/debugger/quickstart-debug-with-cplusplus?view=vs-2022)
 >
@@ -148,4 +149,15 @@ The competition includes a computer programming problem consisting of background
 >> - [Introduction to Classes and Objects in C++](https://www.youtube.com/watch?v=iVLQeWbgbXs)
 >
 >>3.7 - Implement those algorithms in the C++ programming language using classes
+>> - [Classes in C++ YouTube](https://www.youtube.com/watch?v=2BP8NhxjrO0)
+>> - [W3 - Interactive C++ Classes and Objects](https://www.w3schools.com/cpp/cpp_classes.asp)
+>> - [C++ Classes](https://cplusplus.com/doc/tutorial/classes/)
+>
+>>3.8 - Debug C++ programs written by others
+>> - [Debugging in C++](https://www.youtube.com/watch?v=k0DOR8Ow3CA)
+>> - [Debug a C++ project in VS Code YouTube](https://www.youtube.com/watch?v=G9gnSGKYIg4)
+>> - [Microsoft - Debug with C++ using the Visual Studio debugger](https://learn.microsoft.com/en-us/visualstudio/debugger/quickstart-debug-with-cplusplus?view=vs-2022)
+>
+>>3.9 - Use pointers in C++ programs
+>> - [Pointer in C YouTube](https://www.youtube.com/watch?v=2ybLD6_2gKM) Note this is on overview
 >> - 
