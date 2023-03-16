@@ -159,5 +159,19 @@ The competition includes a computer programming problem consisting of background
 >> - [Microsoft - Debug with C++ using the Visual Studio debugger](https://learn.microsoft.com/en-us/visualstudio/debugger/quickstart-debug-with-cplusplus?view=vs-2022)
 >
 >>3.9 - Use pointers in C++ programs
->> - [Pointer in C YouTube](https://www.youtube.com/watch?v=2ybLD6_2gKM) Note this is on overview
->> - 
+>> - [Pointer in C YouTube](https://www.youtube.com/watch?v=2ybLD6_2gKM) *Note this is on overview*
+>> - [C++ Pointers YouTube](https://www.youtube.com/watch?v=DsS-ZiYOWy4)
+>> - [C++ Pointers](https://www.geeksforgeeks.org/cpp-pointers/)
+>> - [C++ Pointers Help](https://www.programiz.com/cpp-programming/pointers)
+>
+>>3.10 - Use sequential files in C++ programs
+>> - [Sequential Files in C++ YouTube](https://www.youtube.com/watch?v=_aW0XFxLuQQ)
+>> - [C++ File Handling YouTube](https://www.youtube.com/watch?v=EaHFhms_Shw)
+>> - [Working with the Sequential File Structure in C++](https://www.codeguru.com/cplusplus/working-with-the-sequential-file-structure-in-c/)
+>> - [Sequential Files in C++](https://flylib.com/books/en/2.331.1.53/1/)
+
+---
+
+##### **4.0 -  Perform Competencies Related to Visual Basic Programming**
+>>4.1 - Demonstrate knowledge of the fundamentals of Visual Basic (VB) programming using Visual Basic.NET
+>> - [
