@@ -51,7 +51,7 @@ This portion of the competition consists of several Provisioning, Testing, Deplo
 >>[CISA Password Guidelines](https://www.cisa.gov/news-events/alerts/2018/03/27/creating-and-managing-strong-passwords)
 >>[EFF Dice Passphrases](https://www.eff.org/dice)
 >
->>2.3 - Provide legally sound advice and recommendations to management on a variety of cyber security topics.
+>>2.3A - Provide legally sound advice and recommendations to management on a variety of cyber security topics.
 >>>Separation of Duties Policies
 >>>`The principle that no user should be given enough privileges to misuse the system on their own.`
 >>> - [IDM4 - Separation of Duties YouTube](https://www.youtube.com/watch?v=eOSVTdw7Qbg)
@@ -60,13 +60,20 @@ This portion of the competition consists of several Provisioning, Testing, Deplo
 >>
 >>>Acceptable Use Policies
 >>>`An acceptable use policy (AUP) is a document stipulating constraints and practices that a user must agree to for access to a corporate network, the internet or other resources.`
->>> - [Security Policies - Professor Messor](https://youtu.be/MC-wWu9Q_jM?t=117)
+>>> - [Security Policies - Professor Messor YouTube](https://youtu.be/MC-wWu9Q_jM?t=117)
 >>> - [CompTIA - Acceptable Use Policy](https://www.comptia.org/blog/security-awareness-training-corporate-acceptable-use-policy)
 >>> - [ISP - Acceptable Use Policy](https://informationsecurityprogram.com/acceptable-use-policy-best-practices/)
 >>
 >>>Mandatory Vacation Policies
->>>`An acceptable use policy (AUP) is a document stipulating constraints and practices that a user must agree to for access to a corporate network, the internet or other resources.`
->>> - [S
+>>>`An administrative control which provides operational security by forcing employees to take vacations and reinforces job rotation principles adding the advantage that an employee sharing that job may determine if unethical occurrences have been made.`
+>>> - [Personnel Management - Professor Messor YouTube](https://www.youtube.com/watch?v=NvqFFlG4KMc)
+>>> - [CertMike - Job Rotation and Mandatory Vacations](https://www.certmike.com/job-rotation-mandatory-vacation/)
+>>> - [Access Control Methods](https://thecybersecurityman.com/2017/12/26/access-control-models/)
+>
+>>2.3B - Conduct training of the organization’s staff on a variety of employee-centered cybersecurity activities.
+>>>Use of Antivirus Software
+>>> - [How Does Antivirus Software Work And How To Evade It YouTube](https://www.youtube.com/watch?v=1_rXO2Es5B8)
+>>> - 
 
 ---
 
