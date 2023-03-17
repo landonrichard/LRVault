@@ -53,12 +53,20 @@ This portion of the competition consists of several Provisioning, Testing, Deplo
 >
 >>2.3 - Provide legally sound advice and recommendations to management on a variety of cyber security topics.
 >>>Separation of Duties Policies
+>>>`The principle that no user should be given enough privileges to misuse the system on their own.`
 >>> - [IDM4 - Separation of Duties YouTube](https://www.youtube.com/watch?v=eOSVTdw7Qbg)
 >>> - [BNL - Separation of Duties](https://www.bnl.gov/cybersecurity/policies/separation-of-duties.php)
 >>> - [IBM - Separation of Duty Policies](https://www.ibm.com/docs/en/sim/6.0.2?topic=administration-separation-duty-policies)
 >>
 >>>Acceptable Use Policies
->>> - test
+>>>`An acceptable use policy (AUP) is a document stipulating constraints and practices that a user must agree to for access to a corporate network, the internet or other resources.`
+>>> - [Security Policies - Professor Messor](https://youtu.be/MC-wWu9Q_jM?t=117)
+>>> - [CompTIA - Acceptable Use Policy](https://www.comptia.org/blog/security-awareness-training-corporate-acceptable-use-policy)
+>>> - [ISP - Acceptable Use Policy](https://informationsecurityprogram.com/acceptable-use-policy-best-practices/)
+>>
+>>>Mandatory Vacation Policies
+>>>`An acceptable use policy (AUP) is a document stipulating constraints and practices that a user must agree to for access to a corporate network, the internet or other resources.`
+>>> - [S
 
 ---
 
