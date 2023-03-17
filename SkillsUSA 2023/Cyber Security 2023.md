@@ -90,7 +90,14 @@ This portion of the competition consists of several Provisioning, Testing, Deplo
 
 ##### **Station 3: Network Systems Hardening Station**
 **This task contains activities related to hardening network systems including different types of endpoints and network servers. Competitors will display knowledge of industry standard processes and procedures for hardening an end point (or stand-alone computing device) or a network server. Devices may be running Windows, Linux or android operating systems.**
->> 3.1 - Train a fellow employee how to avoid phishing attempts associated with emails and web sites. This should include user level examples of things to look for to avoid common items used as bait.
->> [H
+>3.1 - Endpoint Hardening - Competitors will display knowledge of industry standard processes and procedures for hardening an end point or stand-alone computing device.
+>> A - Configuring BIOS/CMOS settings to secure the outer perimeter of a personal computer.
+>> >A.1 - Configure BIOS Passwords to Safeguard the CMOS Area and Control Access to the Operating System
+>>> - [BIOS Security - Professor Messor YouTube](https://www.youtube.com/watch?v=jiJMneYk_Dw)
+>>> - [MIT - Red Hat Workstation Security](https://web.mit.edu/rhel-doc/4/RH-DOCS/rhel-sg-en-4/s1-wstation-boot-sec.html)
+>>> - [UEFI and BIOS Passwords](https://www.howtogeek.com/186235/how-to-secure-your-computer-with-a-bios-or-uefi-password/)
+>>
+>>>A.2 - Enable/Disable USB ports
+>>> - 
 
 
