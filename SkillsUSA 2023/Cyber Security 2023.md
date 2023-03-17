@@ -42,14 +42,14 @@ This portion of the competition consists of several Provisioning, Testing, Deplo
 ##### **Station 2: Professional Activities Station**
 **Competitors will provide verbal instructions or explanations to an evaluator for the task presented at the professional activities station.**
 >> 2.1 - Train a fellow employee how to avoid phishing attempts associated with emails and web sites. This should include user level examples of things to look for to avoid common items used as bait.
->> [How To Recognize and Avoid Phishing Scams YouTube](https://www.youtube.com/watch?v=Yz0PnAkeRiI)
->> [FTC - How to Recognize and Avoid Phishing Scams](https://consumer.ftc.gov/articles/how-recognize-and-avoid-phishing-scams)
->> [OCC - Phishing Attack Prevention](https://www.occ.gov/topics/consumers-and-communities/consumer-protection/fraud-resources/phishing-attack-prevention.html)
+>> - [How To Recognize and Avoid Phishing Scams YouTube](https://www.youtube.com/watch?v=Yz0PnAkeRiI)
+>> - [FTC - How to Recognize and Avoid Phishing Scams](https://consumer.ftc.gov/articles/how-recognize-and-avoid-phishing-scams)
+>> - [OCC - Phishing Attack Prevention](https://www.occ.gov/topics/consumers-and-communities/consumer-protection/fraud-resources/phishing-attack-prevention.html)
 >
 >>2.2 - Explain requirements for (and methods of) creating strong passwords to senior management personnel in your company.
->>[NIST Password Guidelines](https://blog.netwrix.com/2022/11/14/nist-password-guidelines/)
->>[CISA Password Guidelines](https://www.cisa.gov/news-events/alerts/2018/03/27/creating-and-managing-strong-passwords)
->>[EFF Dice Passphrases](https://www.eff.org/dice)
+>> - [NIST Password Guidelines](https://blog.netwrix.com/2022/11/14/nist-password-guidelines/)
+>> - [CISA Password Guidelines](https://www.cisa.gov/news-events/alerts/2018/03/27/creating-and-managing-strong-passwords)
+>> - [EFF Dice Passphrases](https://www.eff.org/dice)
 >
 >>2.3A - Provide legally sound advice and recommendations to management on a variety of cyber security topics.
 >>>Separation of Duties Policies
@@ -113,6 +113,15 @@ This portion of the competition consists of several Provisioning, Testing, Deplo
 >>> - [EFF Dice Passphrases](https://www.eff.org/dice)
 >>
 >>>B.2 - Given a Scenario Configure Lockout Policies
->>> - 
+>>> - [Microsoft - Account Lockout Policy](https://learn.microsoft.com/en-us/windows/security/threat-protection/security-policy-settings/account-lockout-policy)
+>>> - [Configure Account Lockout Server 2019 YouTube](https://www.youtube.com/watch?v=lMwYUW-0iDA) *Strong Accent Warning*
+>>
+>>>B.3 - Given a Scenario Create and Manage Local User Policies
+>>> - [Manage Local Admin Accounts on Windows Server with GP YouTube](https://www.youtube.com/watch?v=DdAEZdsIfSs) *Low Volume Warning*
+>>> - [Microsoft - Local Accounts](https://learn.microsoft.com/en-us/windows/security/identity-protection/access-control/local-accounts)
+>>> - [Microsoft - Configure Security Policy Settings](https://learn.microsoft.com/en-us/windows/security/threat-protection/security-policy-settings/how-to-configure-security-policy-settings)
+>>
+>>>B.4 - Given a Scenario Assign User Privileges based on the Principle of Least Privilege
+>>> - []
 
 
