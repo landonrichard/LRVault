@@ -82,8 +82,15 @@ This portion of the competition consists of several Provisioning, Testing, Deplo
 >>> - [Anti-Malware](https://www.techtarget.com/searchsecurity/definition/antimalware)
 >
 >>2.3C - Explain to a new employee the process for notifying first responders of the Computer Incident Response Team about the possible occurrence of a Cyber Event
->>>- [Incident Reponse Process - Professor Messor YouTube]
+>>>- [Incident Response Process - Professor Messor YouTube](https://www.youtube.com/watch?v=fU_w8Ou9RVg)
+>>>- [What is incident response?](https://www.techtarget.com/searchsecurity/definition/incident-response)
+>>>- [NIST - Computer Security Incident Handling Guide](https://nvlpubs.nist.gov/nistpubs/specialpublications/nist.sp.800-61r2.pdf)
 
 ---
+
+##### **Station 3: Network Systems Hardening Station**
+**This task contains activities related to hardening network systems including different types of endpoints and network servers. Competitors will display knowledge of industry standard processes and procedures for hardening an end point (or stand-alone computing device) or a network server. Devices may be running Windows, Linux or android operating systems.**
+>> 3.1 - Train a fellow employee how to avoid phishing attempts associated with emails and web sites. This should include user level examples of things to look for to avoid common items used as bait.
+>> [H
 
 
