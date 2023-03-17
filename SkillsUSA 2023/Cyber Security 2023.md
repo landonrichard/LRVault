@@ -122,6 +122,16 @@ This portion of the competition consists of several Provisioning, Testing, Deplo
 >>> - [Microsoft - Configure Security Policy Settings](https://learn.microsoft.com/en-us/windows/security/threat-protection/security-policy-settings/how-to-configure-security-policy-settings)
 >>
 >>>B.4 - Given a Scenario Assign User Privileges based on the Principle of Least Privilege
->>> - []
+>>> - [What Is the Principle of Least Privilege? YouTube](https://www.youtube.com/watch?v=mw9fN9mlUS4)
+>>> - [Microsoft - Enhance Security with the Principle of Least Privilege](https://learn.microsoft.com/en-us/azure/active-directory/develop/secure-least-privileged-access)
+>>> - [Least Privilege](https://www.cyberark.com/what-is/least-privilege/)
+>>
+>>>B.5 - Disable Vulnerable Accounts
+>>> - [Discover Privileged Account Vulnerabilities](https://www.beyondtrust.com/blog/entry/discover-your-privileged-account-security-vulnerabilities)
+>>> - [Privileged Users Best Practices & Vulnerabilities YouTube](https://www.youtube.com/watch?v=HC-wXxB95FE)
+>>
+>>>B.6 - Given a Scenario Manage Services and Ports Securely
+>>> - [Network Chuck - Learn Port Security YouTube](https://www.youtube.com/watch?v=0W4JZIWtjLQ&t=1024s)
+>>> - 
 
 
