@@ -53,7 +53,9 @@ This portion of the competition consists of several Provisioning, Testing, Deplo
 >
 >>2.3 - Provide legally sound advice and recommendations to management on a variety of cyber security topics.
 >>>Separation of Duties Policies
->>> - test
+>>> - [IDM4 - Separation of Duties YouTube](https://www.youtube.com/watch?v=eOSVTdw7Qbg)
+>>> - [BNL - Separation of Duties](https://www.bnl.gov/cybersecurity/policies/separation-of-duties.php)
+>>> - [IBM - Separation of Duty Policies](https://www.ibm.com/docs/en/sim/6.0.2?topic=administration-separation-duty-policies)
 >>
 >>>Acceptable Use Policies
 >>> - test
