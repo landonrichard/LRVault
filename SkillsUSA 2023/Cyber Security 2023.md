@@ -132,6 +132,13 @@ This portion of the competition consists of several Provisioning, Testing, Deplo
 >>
 >>>B.6 - Given a Scenario Manage Services and Ports Securely
 >>> - [Network Chuck - Learn Port Security YouTube](https://www.youtube.com/watch?v=0W4JZIWtjLQ&t=1024s)
->>> - 
+>>> - [Handling Open Ports and Finding Vulnerabilities](https://blog.netwrix.com/2022/08/16/open-network-ports/)
+>>
+>>>B.7 - Identify and Remove Unnecessary Software Applications
+>>> - [AVG - How to Spot Unnecessary Apps](https://www.avg.com/en/signal/how-to-get-rid-of-unnecessary-apps-on-your-pc) **DON'T DOWNLOAD AVG TUNEUP**
+>>
+>>C - Take steps to harden an installed operating system – including Windows 10/11, Windows Server 2012/R2, 2019, and Linux distributions.
+>>>B.1 - Create Secure Passwords
+>>> - [N
 
 
