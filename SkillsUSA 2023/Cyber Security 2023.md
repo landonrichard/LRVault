@@ -98,6 +98,21 @@ This portion of the competition consists of several Provisioning, Testing, Deplo
 >>> - [UEFI and BIOS Passwords](https://www.howtogeek.com/186235/how-to-secure-your-computer-with-a-bios-or-uefi-password/)
 >>
 >>>A.2 - Enable/Disable USB ports
+>>> - [ISACA - Turn Off USB Ports](https://www.isaca.org/resources/news-and-trends/isaca-now-blog/2017/turn-off-the-usb-port)
+>>> - [How to Lock Down USB Ports](https://www.networkmanagementsoftware.com/usb-ports-lockdown/)
+>>
+>>>A.3 - Manage Boot devices and boot order
+>>> - [Change Boot Order in Bios YouTube](https://www.youtube.com/watch?v=9GblKZO-smU)
+>>> - [Microsoft - Secure the Windows boot process](https://learn.microsoft.com/en-us/windows/security/information-protection/secure-the-windows-10-boot-process)
+>>> - [Change Boot Order](https://www.lifewire.com/change-the-boot-order-in-bios-2624528)
+>>
+>>B - Take steps to harden an installed operating system – including Windows 10/11, Windows Server 2012/R2, 2019, and Linux distributions.
+>>>B.1 - Create Secure Passwords
+>>> - [NIST Password Guidelines](https://blog.netwrix.com/2022/11/14/nist-password-guidelines/)
+>>> - [CISA Password Guidelines](https://www.cisa.gov/news-events/alerts/2018/03/27/creating-and-managing-strong-passwords)
+>>> - [EFF Dice Passphrases](https://www.eff.org/dice)
+>>
+>>>B.2 - Given a Scenario Configure Lockout Policies
 >>> - 
 
 
