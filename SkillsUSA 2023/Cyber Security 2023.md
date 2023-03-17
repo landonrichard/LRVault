@@ -73,7 +73,16 @@ This portion of the competition consists of several Provisioning, Testing, Deplo
 >>2.3B - Conduct training of the organization’s staff on a variety of employee-centered cybersecurity activities.
 >>>Use of Antivirus Software
 >>> - [How Does Antivirus Software Work And How To Evade It YouTube](https://www.youtube.com/watch?v=1_rXO2Es5B8)
->>> - 
+>>> - [LinkedIn - The Role of Antivirus Software in Cyber Security](https://www.linkedin.com/pulse/role-antivirus-software-cyber-security-comprehensive-guide/)
+>>> - [ncsc.gov.uk - Device Security Guidance](https://www.ncsc.gov.uk/collection/device-security-guidance/policies-and-settings/antivirus-and-other-security-software)
+>>
+>>>Use of Anti Malware Products
+>>> - [Antivirus vs Anti-malware as Fast As Possible YouTube](https://www.youtube.com/watch?v=67-5bzc_GKE)
+>>> - [Acronis - What is Anti-Malware](https://www.acronis.com/en-us/blog/posts/anti-malware-software/)
+>>> - [Anti-Malware](https://www.techtarget.com/searchsecurity/definition/antimalware)
+>
+>>2.3C - Explain to a new employee the process for notifying first responders of the Computer Incident Response Team about the possible occurrence of a Cyber Event
+>>>- [Incident Reponse Process - Professor Messor YouTube]
 
 ---
 
