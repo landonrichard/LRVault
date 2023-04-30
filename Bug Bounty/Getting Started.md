@@ -19,7 +19,7 @@ Bug bounty programs are offered by companies, organizations and websites to ince
 ---
 
 #### What is Recon
-This portion of the competition consists of several Provisioning, Testing, Deployment, Operational and Maintenance, and Protection and Defensive procedures with the end goals set by the technical committee. Competitors must successfully complete assigned tasks at several independent Activity Stations. The tasks are designed to provide a variety of Cyber Security challenges based on the recommended best practices of the industry. Identical tasks are used in high school and college/postsecondary categories. Approximately, 45 minutes are allowed at each station. 
+Recon-ng is a Python-based open-source framework used for automating the process of web reconnaissance and information gathering in a structured way. It is commonly utilized by cybersecurity professionals and penetration testers to gather intelligence about a target system or network. Recon-ng offers a modular framework, making it easy to extend and customize with new modules. It includes built-in modules for tasks such as DNS enumeration, port scanning, OS fingerprinting, and service enumeration, as well as advanced features like automatic input validation, report generation, and support for multiple data sources. Its command-line interface is simple and user-friendly, suitable for both beginners and experts.
 
 ---
 
