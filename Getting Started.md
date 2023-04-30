@@ -6,21 +6,19 @@ Bug bounty programs are offered by companies, organizations and websites to ince
 
 #### Software Recommended
 - [Kali](https://www.kali.org/)
-- [VirtualBox]() or Hyper-V
-- [Putty](https://www.putty.org/)
-- [Autopsy](https://www.autopsy.com/)
-- [AccessData FTK Imager (Freeware)](https://www.exterro.com/ftk-imager)
-- [Wireshark](https://www.wireshark.org/)
-- [Nmap](https://nmap.org/)/[Zenmap](https://nmap.org/zenmap/) 
+- [VirtualBox](https://www.virtualbox.org/wiki/Downloads) or Hyper-V
+- [Recon](https://www.kali.org/tools/recon-ng/)
 
 ---
 
-#### Knowledge Performance Check
-Competitors will take an examination covering their knowledge of common cyber security tenets as defined by the objectives of CompTIA’s Security+ or ETA’s ITS certifications. This involves knowledge of common cybersecurity tools, techniques, and practices. Questions cover key cyber security systems and devices, including those related to end point devices, software, managed switches, enterprise routers, wireless access points, firewalls, pentesting tools, and digital/network forensic activities. The exam consists of multiple-choice questions and lasts up to two hours.   
+#### Setup Kali on a VM
+> Setup Kali on the VM of your choice and make it meets the following specs
+>>  - 6-8gb Ram
+>>  - 6 cores
 
 ---
 
-#### Skill Performance Check
+#### What is Recon
 This portion of the competition consists of several Provisioning, Testing, Deployment, Operational and Maintenance, and Protection and Defensive procedures with the end goals set by the technical committee. Competitors must successfully complete assigned tasks at several independent Activity Stations. The tasks are designed to provide a variety of Cyber Security challenges based on the recommended best practices of the industry. Identical tasks are used in high school and college/postsecondary categories. Approximately, 45 minutes are allowed at each station. 
 
 ---

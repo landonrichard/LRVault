@@ -39,7 +39,7 @@
               "state": {
                 "file": "Getting Started.md",
                 "mode": "source",
-                "source": false
+                "source": true
               }
             }
           }
@@ -73,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#SkillsUSA",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -168,7 +168,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "801b61d113fa2e20",
+  "active": "3d9084043d4eba64",
   "lastOpenFiles": [
     "SkillsUSA 2023/Cyber Security 2023.md",
     "Getting Started.md",
