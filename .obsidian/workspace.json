@@ -30,9 +30,19 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "67c65558e68642f3",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.2.8"
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -75,6 +85,14 @@
             "type": "leaf",
             "state": {
               "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "591dd2bda0f80974",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
               "state": {}
             }
           }
@@ -155,7 +173,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "61c007e02746b876",
+  "active": "67c65558e68642f3",
   "lastOpenFiles": [
     "Bug Bounty/Getting Started.md",
     "Bug Bounty/Recon-ng.md",
