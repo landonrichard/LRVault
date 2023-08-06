@@ -27,6 +27,11 @@
 > - ![[Fuel Hose Diagram.png]]
 > - ![[Fuel Hose Location.png]]
 
-## **<u>Fuel System Inspection</u>**
-> #### <u>Fuel Hose Inspection</u>
-> - Ch
+## **<u>Cooling System</u>**
+> #### <u>Coolant Level Inspection</u>
+> - Check the  level when the engine is cold
+> - Check the level in the reserve tank with motorcycle upright.
+> - **If coolant is lower than the L level line (A). Add coolant**
+> - ![[Coolant Level.png]]
+> #### <u>Cooling System Inspection</u>
+> - C
