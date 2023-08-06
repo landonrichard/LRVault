@@ -99,4 +99,15 @@
 > - ![[front brake resevour.png]]
 > - Fill reservoir if needed
 > - Torque front brake reservoir cap screws to 1ft-lb
-> - 
+> -#### <u>Rear Brake Fluid Level Inspection</u>
+> - Check that the brake fluid level in the rear brake fluid reservoir is above the lower level line
+> - ![[Rear Brake Fluid Level.png]]
+> - Add Disk Brake Fluid if needed
+> - Reinstall Brake Res Cap by tightening the cap until resistance is felt and then tighten 1/16 of a turn more
+> #### <u>Brake Light Switch Inspection</u>
+> - **Check that both front and back brake levers flash the brake lights**
+> - *If they need adjusting, see page 2-48 of service manual*
+
+## **<u>Brakes</u>**
+> #### <u>Brake System Inspection</u>
+> - A
