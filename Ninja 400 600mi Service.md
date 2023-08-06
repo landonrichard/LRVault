@@ -108,6 +108,15 @@
 > - **Check that both front and back brake levers flash the brake lights**
 > - *If they need adjusting, see page 2-48 of service manual*
 
-## **<u>Brakes</u>**
-> #### <u>Brake System Inspection</u>
-> - A
+## **<u>Steering</u>**
+> #### <u>Steering Play Inspection</u>
+> - Raise front wheel off the ground.
+> - With the front wheel pointing straight ahead, tap each end of the handlebar.
+> - The front wheel should swing fully in both directions from the force of gravity.
+> - Feel for steering looseness by pushing and pulling the forks
+> - ![[Front Steering.png]]
+> - *If the wheel needs adjusting, see page 2-51 in service manual to fix it*
+
+## **<u>Condition of Bolts, Buts and Fasteners</u>**
+> #### <u>Steering Play Inspection</u>
+> - R
