@@ -112,7 +112,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 212.5
   },
   "right": {
     "id": "a7b8f545810027b4",
@@ -187,8 +187,10 @@
   },
   "active": "6b5fd25260085816",
   "lastOpenFiles": [
-    "Untitled.md",
+    "Service Manual Images/Idle Speed Inspection.png",
     "Ninja 400 600mi Service.md",
+    "Service Manual Images",
+    "Untitled.md",
     "README.md",
     "NCL/Enumeration & Exploitation in Binary.md",
     "NCL/Cryptography.md",
@@ -227,12 +229,9 @@
     "NCL/Images/Enumeration and Exploitation/binary6.png",
     "NCL/Images/Enumeration and Exploitation/binary4.png",
     "NCL/Images/Enumeration and Exploitation/binary1.png",
-    "NCL/Images/Bardcodes/code128.jpg",
-    "Test.md",
     "NCL/Images/Wireless Access Exploitation",
     "NCL/Images/Web Application Exploitation",
     "NCL/Images/Steganography",
-    "NCL/Images/Scanning",
-    "NCL/Images/PW Cracking"
+    "NCL/Images/Scanning"
   ]
 }
