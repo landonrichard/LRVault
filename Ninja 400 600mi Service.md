@@ -88,4 +88,11 @@
 
 ## **<u>Brakes</u>**
 > #### <u>Brake System Inspection</u>
-> Apply the brake lever or pedal and inspect for bra
+> Apply the brake lever or pedal and inspect for brake fluid leaks from hoses, fittings, and pipes
+> ![[Front Braking System.png]]
+> ![[Back Braking System.png]]
+> #### <u>Brake Operation Inspection</u>
+> **Test that brakes work properly on dry road**
+> #### <u>Brake Fluid Level Inspection</u>
+> Check that the brake fluid level in the front brake reservoir is above the lower level line.
+>- 	Hold the reservoir horizontal by turning the handlebars
