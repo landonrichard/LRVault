@@ -69,30 +69,34 @@
 
 ## **<u>Drive Chain</u>**
 > #### <u>Chain Lubrication Inspection</u>
-> Lubrication of the chain is necessary after riding through the rain or on wet roads, or any time the chain seems dry
-> If the chain is dirty, clean is with chain cleaner before lubing it
-> Lay down a piece of cardboard or towel before starting
-> Apply oil to the sides of the rollers so the oil will penetrate to the rollers and bushings. Apply the oil to the O-rings so that the O-rings will be coated in oil. 
-> ![[Chain Rollers.png]]
-> Wipe off any excess oil
-> Wipe off any lube that gets on tire
+> - Lubrication of the chain is necessary after riding through the rain or on wet roads, or any time the chain seems dry
+> - If the chain is dirty, clean is with chain cleaner before lubing it
+> - Lay down a piece of cardboard or towel before starting
+> - Apply oil to the sides of the rollers so the oil will penetrate to the rollers and bushings. Apply the oil to the O-rings so that the O-rings will be coated in oil. 
+> - ![[Chain Rollers.png]]
+> - Wipe off any excess oil
+> - Wipe off any lube that gets on tire
 > #### <u>Chain Slack Inspection</u>
-> Check slack with motorcycle on sidestand
-> Check the wheel alignment by:
-	>  Check that the left alignment indicator A aligns with the same swingarm mark or position B that the right alignment indicator notch aligns with.
-	>  ![[Wheel Alignment.png]]
-> Rotate the rear wheel to find the position where the chain is tightest
-> Measure the vertical movement midway between the sprockets
-> **Chain Slack: 0.8-1.2in**
-> *If chain slack is incorrect, see page 2-36*
+> - Check slack with motorcycle on sidestand
+> - Check the wheel alignment by:
+	>  - Check that the left alignment indicator A aligns with the same swingarm mark or position B that the right alignment indicator notch aligns with.
+	>  - ![[Wheel Alignment.png]]
+> - Rotate the rear wheel to find the position where the chain is tightest
+> - Measure the vertical movement midway between the sprockets
+> - **Chain Slack: 0.8-1.2in**
+> - *If chain slack is incorrect, see page 2-36*
 
 ## **<u>Brakes</u>**
 > #### <u>Brake System Inspection</u>
-> Apply the brake lever or pedal and inspect for brake fluid leaks from hoses, fittings, and pipes
-> ![[Front Braking System.png]]
-> ![[Back Braking System.png]]
+> - Apply the brake lever or pedal and inspect for brake fluid leaks from hoses, fittings, and pipes
+> - ![[Front Braking System.png]]
+> - ![[Back Braking System.png]]
 > #### <u>Brake Operation Inspection</u>
-> **Test that brakes work properly on dry road**
-> #### <u>Brake Fluid Level Inspection</u>
-> Check that the brake fluid level in the front brake reservoir is above the lower level line.
->- 	Hold the reservoir horizontal by turning the handlebars
+> - **Test that brakes work properly on dry road**
+> #### <u>Front Brake Fluid Level Inspection</u>
+> - Check that the brake fluid level in the front brake reservoir is above the lower level line.
+> 	- *Hold the reservoir horizontal by turning the handlebars*
+> - ![[front brake resevour.png]]
+> - Fill reservoir if needed
+> - Torque front brake reservoir cap screws to 1ft-lb
+> - 
