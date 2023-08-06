@@ -20,3 +20,13 @@
 ## **<u>Fuel System Inspection</u>**
 > #### <u>Fuel Hose Inspection</u>
 > - Check the fuel hose for fuel leaks
+> - Check the fuel hose for any fraying, cracks or bulges. 
+> - Check that the fuel hose joints are securlty connected by:
+> 	- Push and pull the fuel hose joint back and forth more than two times
+> 	- Make sure it is locked and does not come off
+> - ![[Fuel Hose Diagram.png]]
+> - ![[Fuel Hose Location.png]]
+
+## **<u>Fuel System Inspection</u>**
+> #### <u>Fuel Hose Inspection</u>
+> - Ch
