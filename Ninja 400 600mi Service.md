@@ -53,16 +53,20 @@
 > - Warm up the engine and set the bike upright
 > - Remove Lower Left Fairing
 > - Unscrew the oil filler plug
-> - ![[Pasted image 20230806010605.png]]
+> - ![[Oil Cap.png]]
 > - Place oil pan underneath engine
 > - Remove engine oil drain bolt and drain the oil
-> - ![[Pasted image 20230806010641.png]]
+> - ![[Oil Drain Plug.png]]
 > - Remove the Oil Filter with an oil filter wrench
-> - ![[Pasted image 20230806010959.png]]
+> - ![[Oil Filter Placement.png]]
 > - Apply engine oil to filter Oil Ring
-> - ![[Pasted image 20230806011054.png]]
+> - ![[Oil Filter.png]]
 > - Install new Oil Filter, torque to 12.9 ft-lb
 > - Reinstall engine drain bolt and replace drain bolt gasket. Torque drain bolt to 22ft-lb
-> - ![[Pasted image 20230806011231.png]]
+> - ![[Oil Drain Plug.png]]
 > - Pour in 2.0L / 2.1qt of SAE 10W-40 4 Stroke Engine Oil
-> - Check oil lev
+> - Check oil level
+
+## **<u>Drive Chain</u>**
+> #### <u>Chain Lubrication Inspection</u>
+> Lubrication of the chain is necessary after riding through the rain or on wet roads, or any time the chain seems dry
