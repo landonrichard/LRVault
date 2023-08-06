@@ -70,3 +70,13 @@
 ## **<u>Drive Chain</u>**
 > #### <u>Chain Lubrication Inspection</u>
 > Lubrication of the chain is necessary after riding through the rain or on wet roads, or any time the chain seems dry
+> If the chain is dirty, clean is with chain cleaner before lubing it
+> Lay down a piece of cardboard or towel before starting
+> Apply oil to the sides of the rollers so the oil will penetrate to the rollers and bushings. Apply the oil to the O-rings so that the O-rings will be coated in oil. 
+> ![[Chain Rollers.png]]
+> Wipe off any excess oil
+> Wipe off any lube that gets on tire
+> #### <u>Chain Slack Inspection</u>
+> Check slack with motorcycle on sidestand
+> Check the wheel alignment by:
+	>  
