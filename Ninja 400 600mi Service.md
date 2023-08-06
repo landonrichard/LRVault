@@ -57,4 +57,12 @@
 > - Place oil pan underneath engine
 > - Remove engine oil drain bolt and drain the oil
 > - ![[Pasted image 20230806010641.png]]
-> - 
+> - Remove the Oil Filter with an oil filter wrench
+> - ![[Pasted image 20230806010959.png]]
+> - Apply engine oil to filter Oil Ring
+> - ![[Pasted image 20230806011054.png]]
+> - Install new Oil Filter, torque to 12.9 ft-lb
+> - Reinstall engine drain bolt and replace drain bolt gasket. Torque drain bolt to 22ft-lb
+> - ![[Pasted image 20230806011231.png]]
+> - Pour in 2.0L / 2.1qt of SAE 10W-40 4 Stroke Engine Oil
+> - Check oil lev
