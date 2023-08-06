@@ -48,8 +48,8 @@
               "type": "markdown",
               "state": {
                 "file": "Ninja 400 600mi Service.md",
-                "mode": "preview",
-                "source": false
+                "mode": "source",
+                "source": true
               }
             }
           }
