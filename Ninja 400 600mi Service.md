@@ -36,6 +36,15 @@
 > - **Clutch Lever Free Play: 0.08-0.12in**
 > - *If the clutch lever free play is incorrect, see page 2-31 of the service manual*
 
+## **<u>Steering</u>**
+> #### <u>Steering Play Inspection</u>
+> - Raise front wheel off the ground.
+> - With the front wheel pointing straight ahead, tap each end of the handlebar.
+> - The front wheel should swing fully in both directions from the force of gravity.
+> - Feel for steering looseness by pushing and pulling the forks
+> - ![[Front Steering.png]]
+> - *If the wheel needs adjusting, see page 2-51 in service manual to fix it*
+
 ## **<u>Engine Oil</u>**
 > #### <u>Engine Oil and Filter Change</u>
 > **You will need 3q of oil and an oil filter**
@@ -56,15 +65,6 @@
 > - Pour in 2.0L / 2.1qt of SAE 10W-40 4 Stroke Engine Oil
 > - Check oil level
 
-## **<u>Steering</u>**
-> #### <u>Steering Play Inspection</u>
-> - Raise front wheel off the ground.
-> - With the front wheel pointing straight ahead, tap each end of the handlebar.
-> - The front wheel should swing fully in both directions from the force of gravity.
-> - Feel for steering looseness by pushing and pulling the forks
-> - ![[Front Steering.png]]
-> - *If the wheel needs adjusting, see page 2-51 in service manual to fix it*
-
 ## **<u>Idle Inspection</u>**
 > #### <u>Check Throttle Cables</u>
 > - Start the engine and warm it up
@@ -75,25 +75,6 @@
 > #### <u>Check Idle Speed</u>
 > - **Standard Idle: 1250-1350rpm**
 > - *If the idle speed is out of specified range, check the idle speed control valve actuator (see idle Speed Control Valve Actuator Resistance inspection in the Fuel System (DFI) chapter).*
-
-## **<u>Drive Chain</u>**
-> #### <u>Chain Lubrication Inspection</u>
-> - Lubrication of the chain is necessary after riding through the rain or on wet roads, or any time the chain seems dry
-> - If the chain is dirty, clean is with chain cleaner before lubing it
-> - Lay down a piece of cardboard or towel before starting
-> - Apply oil to the sides of the rollers so the oil will penetrate to the rollers and bushings. Apply the oil to the O-rings so that the O-rings will be coated in oil. 
-> - ![[Chain Rollers.png]]
-> - Wipe off any excess oil
-> - Wipe off any lube that gets on tire
-> #### <u>Chain Slack Inspection</u>
-> - Check slack with motorcycle on sidestand
-> - Check the wheel alignment by:
-	>  - Check that the left alignment indicator A aligns with the same swingarm mark or position B that the right alignment indicator notch aligns with.
-	>  - ![[Wheel Alignment.png]]
-> - Rotate the rear wheel to find the position where the chain is tightest
-> - Measure the vertical movement midway between the sprockets
-> - **Chain Slack: 0.8-1.2in**
-> - *If chain slack is incorrect, see page 2-36*
 
 ## **<u>Brakes</u>**
 > #### <u>Brake System Inspection</u>
@@ -116,6 +97,25 @@
 > #### <u>Brake Light Switch Inspection</u>
 > - **Check that both front and back brake levers flash the brake lights**
 > - *If they need adjusting, see page 2-48 of service manual*
+
+## **<u>Drive Chain</u>**
+> #### <u>Chain Lubrication Inspection</u>
+> - Lubrication of the chain is necessary after riding through the rain or on wet roads, or any time the chain seems dry
+> - If the chain is dirty, clean is with chain cleaner before lubing it
+> - Lay down a piece of cardboard or towel before starting
+> - Apply oil to the sides of the rollers so the oil will penetrate to the rollers and bushings. Apply the oil to the O-rings so that the O-rings will be coated in oil. 
+> - ![[Chain Rollers.png]]
+> - Wipe off any excess oil
+> - Wipe off any lube that gets on tire
+> #### <u>Chain Slack Inspection</u>
+> - Check slack with motorcycle on sidestand
+> - Check the wheel alignment by:
+	>  - Check that the left alignment indicator A aligns with the same swingarm mark or position B that the right alignment indicator notch aligns with.
+	>  - ![[Wheel Alignment.png]]
+> - Rotate the rear wheel to find the position where the chain is tightest
+> - Measure the vertical movement midway between the sprockets
+> - **Chain Slack: 0.8-1.2in**
+> - *If chain slack is incorrect, see page 2-36*
 
 ## **<u>Condition of Bolts, Buts and Fasteners</u>**
 > #### <u>Bolts, Nuts and Fasteners Inspection</u>
