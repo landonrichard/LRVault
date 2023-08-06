@@ -44,4 +44,17 @@
 > #### <u>Clutch Operation Inspection</u>
 > - Pull the lever just enough to take up the free play
 > - Measure the gap between the lever and the lever holder
+> - **Clutch Lever Free Play: 0.08-0.12in**
+> - *If the clutch lever free play is incorrect, see page 2-31 of the service manual*
+
+## **<u>Engine Oil</u>**
+> #### <u>Engine Oil and Filter Change</u>
+> **You will need 3q of oil and an oil filter**
+> - Warm up the engine and set the bike upright
+> - Remove Lower Left Fairing
+> - Unscrew the oil filler plug
+> - ![[Pasted image 20230806010605.png]]
+> - Place oil pan underneath engine
+> - Remove engine oil drain bolt and drain the oil
+> - ![[Pasted image 20230806010641.png]]
 > - 
