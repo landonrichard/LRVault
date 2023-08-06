@@ -1,14 +1,3 @@
-## **<u>Idle Inspection</u>**
-> #### <u>Check Throttle Cables</u>
-> - Start the engine and warm it up
->- With engine idling, turn the handlebars to both sides
->- **If handlebars movement changes the idle, the throttle cables may be improperly adjusted or incorrectly routed or damaged. ** 
->- *Be sure to correct any of these conditions before riding (see Throttle Control System Inspection and Cable, Wire, and Hose Routing section in the Appendix chapter).*
->- ![[Idle Speed Inspection.png]]
-> #### <u>Check Idle Speed</u>
-> - **Standard Idle: 1250-1350rpm**
-> - *If the idle speed is out of specified range, check the idle speed control valve actuator (see idle Speed Control Valve Actuator Resistance inspection in the Fuel System (DFI) chapter).*
-
 ## **<u>Throttle Control System Inspection</u>**
 > #### <u>Check Throttle Grip</u>
 > - **Check that the throttle grip moves smoothly from full open to close, and the throttle closes quickly and completely. Do this in all steering positions.**
@@ -67,6 +56,26 @@
 > - Pour in 2.0L / 2.1qt of SAE 10W-40 4 Stroke Engine Oil
 > - Check oil level
 
+## **<u>Steering</u>**
+> #### <u>Steering Play Inspection</u>
+> - Raise front wheel off the ground.
+> - With the front wheel pointing straight ahead, tap each end of the handlebar.
+> - The front wheel should swing fully in both directions from the force of gravity.
+> - Feel for steering looseness by pushing and pulling the forks
+> - ![[Front Steering.png]]
+> - *If the wheel needs adjusting, see page 2-51 in service manual to fix it*
+
+## **<u>Idle Inspection</u>**
+> #### <u>Check Throttle Cables</u>
+> - Start the engine and warm it up
+>- With engine idling, turn the handlebars to both sides
+>- **If handlebars movement changes the idle, the throttle cables may be improperly adjusted or incorrectly routed or damaged. ** 
+>- *Be sure to correct any of these conditions before riding (see Throttle Control System Inspection and Cable, Wire, and Hose Routing section in the Appendix chapter).*
+>- ![[Idle Speed Inspection.png]]
+> #### <u>Check Idle Speed</u>
+> - **Standard Idle: 1250-1350rpm**
+> - *If the idle speed is out of specified range, check the idle speed control valve actuator (see idle Speed Control Valve Actuator Resistance inspection in the Fuel System (DFI) chapter).*
+
 ## **<u>Drive Chain</u>**
 > #### <u>Chain Lubrication Inspection</u>
 > - Lubrication of the chain is necessary after riding through the rain or on wet roads, or any time the chain seems dry
@@ -108,21 +117,12 @@
 > - **Check that both front and back brake levers flash the brake lights**
 > - *If they need adjusting, see page 2-48 of service manual*
 
-## **<u>Steering</u>**
-> #### <u>Steering Play Inspection</u>
-> - Raise front wheel off the ground.
-> - With the front wheel pointing straight ahead, tap each end of the handlebar.
-> - The front wheel should swing fully in both directions from the force of gravity.
-> - Feel for steering looseness by pushing and pulling the forks
-> - ![[Front Steering.png]]
-> - *If the wheel needs adjusting, see page 2-51 in service manual to fix it*
-
 ## **<u>Condition of Bolts, Buts and Fasteners</u>**
 > #### <u>Bolts, Nuts and Fasteners Inspection</u>
 > - Check the tightness of the bolts and nuts listed below and check to see that each cotter pin is in place.
 > - **If there are loose fasteners, retighten them to spec. You can find this in the Standard Torque Table in the Service Manual. Loosen the fastener by 1/2 before tightening.**
 > - Bolts, Nuts, and Fasteners to be checked:
->	- **Engine**
+>	- **Engine:**
 >		- Clutch Lever Pivot Bolt
 >		- Frame Bracket Bolts
 >		- Swingarm Mounting Plate Nut
@@ -131,12 +131,12 @@
 >		- Muffler Body Clamp Bolt
 >		- Muffler Body Mounting Bolt
 >		- Radiator Bolts
->	- **Wheels**
+>	- **Wheels:**
 >		- Front Axle Nut
 >		- Front Axle Nut Cotter Pin
 >		- Rear Axle Nut
 >		- Rear Axle Cotter Pin
->	- **Brakes**
+>	- **Brakes:**
 >		- Brake Lever Pivot Bolt Locknut
 >		- Brake Pedal Bolt
 >		- Caliper Mounting Bolts
@@ -144,3 +144,17 @@
 >		- Rear Master Cylinder Mounting Bolts
 >		- Rear Master Cylinder Push Rod Joint Cotter Pin
 >	- **Suspension:**
+>		- Front Fork Clamp Bolts
+>		- Rear Shock Absorber Bolts
+>		- Rear Shock Absorber Bracket Nuts
+>		- Swingarm Pivot Shaft Nut
+>		- Swingarm Side Bracket Bolts
+>		- Tie-Rod Bolts
+>		- Rocker Arm Bolt
+>	- **Steering:**
+>		- Handlebar Clamp Bolts
+>		- Steering Stem Head Nut
+>	- **Others:**
+>		- Footpeg Bracket Bolts
+>		- Side Stand Bolt
+>		- Side Stand Bracket Bolts
