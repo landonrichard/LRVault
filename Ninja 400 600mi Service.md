@@ -79,4 +79,13 @@
 > #### <u>Chain Slack Inspection</u>
 > Check slack with motorcycle on sidestand
 > Check the wheel alignment by:
-	>  
+	>  Check that the left alignment indicator A aligns with the same swingarm mark or position B that the right alignment indicator notch aligns with.
+	>  ![[Wheel Alignment.png]]
+> Rotate the rear wheel to find the position where the chain is tightest
+> Measure the vertical movement midway between the sprockets
+> **Chain Slack: 0.8-1.2in**
+> *If chain slack is incorrect, see page 2-36*
+
+## **<u>Brakes</u>**
+> #### <u>Brake System Inspection</u>
+> Apply the brake lever or pedal and inspect for bra
