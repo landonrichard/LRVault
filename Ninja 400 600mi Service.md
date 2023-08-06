@@ -118,5 +118,29 @@
 > - *If the wheel needs adjusting, see page 2-51 in service manual to fix it*
 
 ## **<u>Condition of Bolts, Buts and Fasteners</u>**
-> #### <u>Steering Play Inspection</u>
-> - R
+> #### <u>Bolts, Nuts and Fasteners Inspection</u>
+> - Check the tightness of the bolts and nuts listed below and check to see that each cotter pin is in place.
+> - **If there are loose fasteners, retighten them to spec. You can find this in the Standard Torque Table in the Service Manual. Loosen the fastener by 1/2 before tightening.**
+> - Bolts, Nuts, and Fasteners to be checked:
+>	- **Engine**
+>		- Clutch Lever Pivot Bolt
+>		- Frame Bracket Bolts
+>		- Swingarm Mounting Plate Nut
+>		- Engine Mounting Bolts
+>		- Exhaust Pipe Holder Nuts
+>		- Muffler Body Clamp Bolt
+>		- Muffler Body Mounting Bolt
+>		- Radiator Bolts
+>	- **Wheels**
+>		- Front Axle Nut
+>		- Front Axle Nut Cotter Pin
+>		- Rear Axle Nut
+>		- Rear Axle Cotter Pin
+>	- **Brakes**
+>		- Brake Lever Pivot Bolt Locknut
+>		- Brake Pedal Bolt
+>		- Caliper Mounting Bolts
+>		- Front Master Cylinder Clamp Bolts
+>		- Rear Master Cylinder Mounting Bolts
+>		- Rear Master Cylinder Push Rod Joint Cotter Pin
+>	- **Suspension:**
