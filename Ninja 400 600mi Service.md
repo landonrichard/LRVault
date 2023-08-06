@@ -34,4 +34,14 @@
 > - **If coolant is lower than the L level line (A). Add coolant**
 > - ![[Coolant Level.png]]
 > #### <u>Cooling System Inspection</u>
-> - C
+> - Inspect the hoses for signs of deterioration. Squeeze the hoses.
+> - A hose should not be hard or brittle, nor should it be soft or swollen.
+> - **Replace the hose if any fraying, cracks, or bulges are notices**
+> - Check that the hoses are securely connected
+> - ![[Cooling system.png]]
+
+## **<u>Clutch</u>**
+> #### <u>Clutch Operation Inspection</u>
+> - Pull the lever just enough to take up the free play
+> - Measure the gap between the lever and the lever holder
+> - 
